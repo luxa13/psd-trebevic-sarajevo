@@ -1,0 +1,14 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+/.aistudio/
+/.vercel/
+/colina-kapa-verified.png
+/mobile_chart_scrolled_right.png
+/mobile_chart_verified.png
+/mobile_fixed.png
+*.tsbuildinfo

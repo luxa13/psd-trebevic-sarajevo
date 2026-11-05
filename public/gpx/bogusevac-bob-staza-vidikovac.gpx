@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Boguševac - Bob staza - Vidikovac</name>
+    <author>
+      <name>Armin Maluhic 🇧🇦 - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/356357002"/>
+    <time>2026-11-03T22:25:52.247Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Boguševac - Bob staza - Vidikovac</name>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="43.846766" lon="18.433653">
+        <ele>768.0</ele>
+        <name>Boguševac, MZ &quot;Toka Džeka&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.846707" lon="18.433706">
+        <ele>769.0</ele>
+      </trkpt>
+      <trkpt lat="43.846672" lon="18.433788">
+        <ele>770.9</ele>
+      </trkpt>
+      <trkpt lat="43.846647" lon="18.433911">
+        <ele>773.8</ele>
+      </trkpt>
+      <trkpt lat="43.846646" lon="18.433979">
+        <ele>775.4</ele>
+      </trkpt>
+      <trkpt lat="43.846622" lon="18.434071">
+        <ele>778.2</ele>
+      </trkpt>
+      <trkpt lat="43.846624" lon="18.434196">
+        <ele>781.2</ele>
+      </trkpt>
+      <trkpt lat="43.846612" lon="18.434276">
+        <ele>783.2</ele>
+      </trkpt>
+      <trkpt lat="43.846629" lon="18.434352">
+        <ele>784.8</ele>
+      </trkpt>
+      <trkpt lat="43.846603" lon="18.434441">
+        <ele>787.0</ele>
+      </trkpt>
+      <trkpt lat="43.846597" lon="18.434516">
+        <ele>788.7</ele>
+      </trkpt>
+      <trkpt lat="43.846573" lon="18.434574">
+        <ele>789.9</ele>
+      </trkpt>
+      <trkpt lat="43.846561" lon="18.434729">
+        <ele>793.7</ele>
+      </trkpt>
+      <trkpt lat="43.846505" lon="18.434783">
+        <ele>794.7</ele>
+      </trkpt>
+      <trkpt lat="43.846453" lon="18.43481">
+        <ele>795.0</ele>
+      </trkpt>
+      <trkpt lat="43.846398" lon="18.434896">
+        <ele>797.1</ele>
+      </trkpt>
+      <trkpt lat="43.846301" lon="18.434982">
+        <ele>800.2</ele>
+      </trkpt>
+      <trkpt lat="43.846271" lon="18.435061">
+        <ele>803.1</ele>
+      </trkpt>
+      <trkpt lat="43.846201" lon="18.435115">
+        <ele>805.9</ele>
+      </trkpt>
+      <trkpt lat="43.846127" lon="18.435187">
+        <ele>809.1</ele>
+      </trkpt>
+      <trkpt lat="43.846049" lon="18.43525">
+        <ele>811.7</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.845968" lon="18.435314">
+        <ele>814.4</ele>
+      </trkpt>
+      <trkpt lat="43.845919" lon="18.435432">
+        <ele>817.0</ele>
+      </trkpt>
+      <trkpt lat="43.845866" lon="18.435583">
+        <ele>819.5</ele>
+      </trkpt>
+      <trkpt lat="43.845883" lon="18.435732">
+        <ele>822.2</ele>
+      </trkpt>
+      <trkpt lat="43.845942" lon="18.435867">
+        <ele>826.5</ele>
+      </trkpt>
+      <trkpt lat="43.845991" lon="18.436011">
+        <ele>832.6</ele>
+      </trkpt>
+      <trkpt lat="43.846061" lon="18.436015">
+        <ele>834.5</ele>
+      </trkpt>
+      <trkpt lat="43.846105" lon="18.436027">
+        <ele>835.9</ele>
+      </trkpt>
+      <trkpt lat="43.846118" lon="18.436068">
+        <ele>837.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.846071" lon="18.436247">
+        <ele>842.9</ele>
+      </trkpt>
+      <trkpt lat="43.845938" lon="18.436514">
+        <ele>850.3</ele>
+      </trkpt>
+      <trkpt lat="43.845768" lon="18.436825">
+        <ele>856.5</ele>
+      </trkpt>
+      <trkpt lat="43.845624" lon="18.437129">
+        <ele>863.7</ele>
+      </trkpt>
+      <trkpt lat="43.845483" lon="18.437231">
+        <ele>867.8</ele>
+      </trkpt>
+      <trkpt lat="43.845454" lon="18.437282">
+        <ele>869.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.845413" lon="18.437354">
+        <ele>872.2</ele>
+      </trkpt>
+      <trkpt lat="43.84509" lon="18.437386">
+        <ele>881.4</ele>
+      </trkpt>
+      <trkpt lat="43.845024" lon="18.437442">
+        <ele>885.8</ele>
+      </trkpt>
+      <trkpt lat="43.845061" lon="18.437561">
+        <ele>886.3</ele>
+      </trkpt>
+      <trkpt lat="43.845183" lon="18.437769">
+        <ele>885.7</ele>
+      </trkpt>
+      <trkpt lat="43.84527" lon="18.437951">
+        <ele>891.8</ele>
+      </trkpt>
+      <trkpt lat="43.845316" lon="18.438085">
+        <ele>897.1</ele>
+      </trkpt>
+      <trkpt lat="43.845289" lon="18.438162">
+        <ele>900.4</ele>
+      </trkpt>
+      <trkpt lat="43.845214" lon="18.438185">
+        <ele>901.7</ele>
+      </trkpt>
+      <trkpt lat="43.845023" lon="18.438164">
+        <ele>902.5</ele>
+      </trkpt>
+      <trkpt lat="43.844879" lon="18.438169">
+        <ele>907.4</ele>
+      </trkpt>
+      <trkpt lat="43.84487" lon="18.43822">
+        <ele>910.2</ele>
+      </trkpt>
+      <trkpt lat="43.844941" lon="18.438323">
+        <ele>912.2</ele>
+      </trkpt>
+      <trkpt lat="43.845075" lon="18.438518">
+        <ele>914.5</ele>
+      </trkpt>
+      <trkpt lat="43.845212" lon="18.438898">
+        <ele>920.4</ele>
+      </trkpt>
+      <trkpt lat="43.845232" lon="18.439031">
+        <ele>922.7</ele>
+      </trkpt>
+      <trkpt lat="43.845208" lon="18.439063">
+        <ele>923.2</ele>
+      </trkpt>
+      <trkpt lat="43.845146" lon="18.439109">
+        <ele>924.2</ele>
+      </trkpt>
+      <trkpt lat="43.844767" lon="18.439146">
+        <ele>927.3</ele>
+      </trkpt>
+      <trkpt lat="43.844636" lon="18.439141">
+        <ele>929.4</ele>
+      </trkpt>
+      <trkpt lat="43.844519" lon="18.439163">
+        <ele>932.1</ele>
+      </trkpt>
+      <trkpt lat="43.844277" lon="18.43921">
+        <ele>938.7</ele>
+      </trkpt>
+      <trkpt lat="43.844247" lon="18.439239">
+        <ele>939.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.844169" lon="18.439315">
+        <ele>942.0</ele>
+      </trkpt>
+      <trkpt lat="43.844074" lon="18.439237">
+        <ele>944.9</ele>
+      </trkpt>
+      <trkpt lat="43.843976" lon="18.43923">
+        <ele>948.1</ele>
+      </trkpt>
+      <trkpt lat="43.843889" lon="18.439275">
+        <ele>950.8</ele>
+      </trkpt>
+      <trkpt lat="43.843751" lon="18.439427">
+        <ele>956.0</ele>
+      </trkpt>
+      <trkpt lat="43.843609" lon="18.439597">
+        <ele>961.7</ele>
+      </trkpt>
+      <trkpt lat="43.843479" lon="18.439654">
+        <ele>965.3</ele>
+      </trkpt>
+      <trkpt lat="43.843377" lon="18.439729">
+        <ele>967.9</ele>
+      </trkpt>
+      <trkpt lat="43.843288" lon="18.439825">
+        <ele>971.0</ele>
+      </trkpt>
+      <trkpt lat="43.843198" lon="18.439896">
+        <ele>973.9</ele>
+      </trkpt>
+      <trkpt lat="43.84306" lon="18.439872">
+        <ele>977.3</ele>
+      </trkpt>
+      <trkpt lat="43.84302" lon="18.43986">
+        <ele>978.2</ele>
+      </trkpt>
+      <trkpt lat="43.842969" lon="18.439868">
+        <ele>979.1</ele>
+      </trkpt>
+      <trkpt lat="43.842814" lon="18.439878">
+        <ele>981.7</ele>
+      </trkpt>
+      <trkpt lat="43.842674" lon="18.43989">
+        <ele>983.6</ele>
+      </trkpt>
+      <trkpt lat="43.842579" lon="18.439894">
+        <ele>984.5</ele>
+      </trkpt>
+      <trkpt lat="43.842551" lon="18.439932">
+        <ele>985.4</ele>
+      </trkpt>
+      <trkpt lat="43.842538" lon="18.439993">
+        <ele>986.5</ele>
+      </trkpt>
+      <trkpt lat="43.842538" lon="18.440063">
+        <ele>987.7</ele>
+      </trkpt>
+      <trkpt lat="43.842536" lon="18.440095">
+        <ele>988.2</ele>
+      </trkpt>
+      <trkpt lat="43.842518" lon="18.440093">
+        <ele>988.4</ele>
+      </trkpt>
+      <trkpt lat="43.842437" lon="18.440086">
+        <ele>989.3</ele>
+      </trkpt>
+      <trkpt lat="43.842417" lon="18.440084">
+        <ele>989.5</ele>
+      </trkpt>
+      <trkpt lat="43.842405" lon="18.440075">
+        <ele>989.4</ele>
+      </trkpt>
+      <trkpt lat="43.842321" lon="18.440038">
+        <ele>989.7</ele>
+      </trkpt>
+      <trkpt lat="43.842248" lon="18.439972">
+        <ele>989.2</ele>
+      </trkpt>
+      <trkpt lat="43.842084" lon="18.439943">
+        <ele>990.7</ele>
+      </trkpt>
+      <trkpt lat="43.842032" lon="18.439929">
+        <ele>991.1</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841951" lon="18.439907">
+        <ele>991.5</ele>
+      </trkpt>
+      <trkpt lat="43.841862" lon="18.440067">
+        <ele>994.2</ele>
+      </trkpt>
+      <trkpt lat="43.841748" lon="18.440247">
+        <ele>996.7</ele>
+      </trkpt>
+      <trkpt lat="43.841667" lon="18.440443">
+        <ele>998.8</ele>
+      </trkpt>
+      <trkpt lat="43.841658" lon="18.440509">
+        <ele>999.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.84163" lon="18.440714">
+        <ele>1001.6</ele>
+      </trkpt>
+      <trkpt lat="43.841616" lon="18.440885">
+        <ele>1003.8</ele>
+      </trkpt>
+      <trkpt lat="43.841591" lon="18.441013">
+        <ele>1005.8</ele>
+      </trkpt>
+      <trkpt lat="43.841542" lon="18.441184">
+        <ele>1007.9</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841531" lon="18.441225">
+        <ele>1008.3</ele>
+      </trkpt>
+      <trkpt lat="43.841469" lon="18.441442">
+        <ele>1010.6</ele>
+      </trkpt>
+      <trkpt lat="43.84144" lon="18.441595">
+        <ele>1012.0</ele>
+      </trkpt>
+      <trkpt lat="43.841451" lon="18.441766">
+        <ele>1013.2</ele>
+      </trkpt>
+      <trkpt lat="43.841537" lon="18.441866">
+        <ele>1013.7</ele>
+      </trkpt>
+      <trkpt lat="43.84166" lon="18.441895">
+        <ele>1013.6</ele>
+      </trkpt>
+      <trkpt lat="43.841939" lon="18.441903">
+        <ele>1011.9</ele>
+      </trkpt>
+      <trkpt lat="43.842035" lon="18.441915">
+        <ele>1011.3</ele>
+      </trkpt>
+      <trkpt lat="43.842103" lon="18.441947">
+        <ele>1010.9</ele>
+      </trkpt>
+      <trkpt lat="43.842171" lon="18.442013">
+        <ele>1010.3</ele>
+      </trkpt>
+      <trkpt lat="43.842209" lon="18.442114">
+        <ele>1009.5</ele>
+      </trkpt>
+      <trkpt lat="43.842227" lon="18.442221">
+        <ele>1008.9</ele>
+      </trkpt>
+      <trkpt lat="43.842231" lon="18.442343">
+        <ele>1008.8</ele>
+      </trkpt>
+      <trkpt lat="43.842217" lon="18.44243">
+        <ele>1009.1</ele>
+      </trkpt>
+      <trkpt lat="43.842171" lon="18.442552">
+        <ele>1009.9</ele>
+      </trkpt>
+      <trkpt lat="43.842101" lon="18.442626">
+        <ele>1011.2</ele>
+      </trkpt>
+      <trkpt lat="43.842034" lon="18.442669">
+        <ele>1012.6</ele>
+      </trkpt>
+      <trkpt lat="43.84194" lon="18.442657">
+        <ele>1014.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841935" lon="18.442657">
+        <ele>1014.6</ele>
+      </trkpt>
+      <trkpt lat="43.84185" lon="18.442618">
+        <ele>1016.3</ele>
+      </trkpt>
+      <trkpt lat="43.841663" lon="18.442534">
+        <ele>1019.2</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841604" lon="18.442507">
+        <ele>1020.1</ele>
+      </trkpt>
+      <trkpt lat="43.841413" lon="18.442423">
+        <ele>1021.4</ele>
+      </trkpt>
+      <trkpt lat="43.841377" lon="18.442406">
+        <ele>1021.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841203" lon="18.442322">
+        <ele>1021.7</ele>
+      </trkpt>
+      <trkpt lat="43.841182" lon="18.442333">
+        <ele>1022.2</ele>
+      </trkpt>
+      <trkpt lat="43.841141" lon="18.442337">
+        <ele>1023.0</ele>
+      </trkpt>
+      <trkpt lat="43.841131" lon="18.442338">
+        <ele>1023.2</ele>
+      </trkpt>
+      <trkpt lat="43.841093" lon="18.442341">
+        <ele>1024.1</ele>
+      </trkpt>
+      <trkpt lat="43.841039" lon="18.442281">
+        <ele>1025.0</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841024" lon="18.442264">
+        <ele>1025.3</ele>
+      </trkpt>
+      <trkpt lat="43.840865" lon="18.442185">
+        <ele>1030.7</ele>
+      </trkpt>
+      <trkpt lat="43.840739" lon="18.442138">
+        <ele>1033.9</ele>
+      </trkpt>
+      <trkpt lat="43.840685" lon="18.442144">
+        <ele>1035.1</ele>
+      </trkpt>
+      <trkpt lat="43.840644" lon="18.442186">
+        <ele>1036.3</ele>
+      </trkpt>
+      <trkpt lat="43.84061" lon="18.442292">
+        <ele>1037.9</ele>
+      </trkpt>
+      <trkpt lat="43.840621" lon="18.442542">
+        <ele>1040.1</ele>
+      </trkpt>
+      <trkpt lat="43.840636" lon="18.442601">
+        <ele>1040.3</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840639" lon="18.442613">
+        <ele>1040.4</ele>
+      </trkpt>
+      <trkpt lat="43.840656" lon="18.442722">
+        <ele>1040.9</ele>
+      </trkpt>
+      <trkpt lat="43.840653" lon="18.442789">
+        <ele>1041.7</ele>
+      </trkpt>
+      <trkpt lat="43.84065" lon="18.442878">
+        <ele>1042.8</ele>
+      </trkpt>
+      <trkpt lat="43.840611" lon="18.442876">
+        <ele>1043.9</ele>
+      </trkpt>
+      <trkpt lat="43.840607" lon="18.44294">
+        <ele>1044.7</ele>
+      </trkpt>
+      <trkpt lat="43.840598" lon="18.443025">
+        <ele>1045.9</ele>
+      </trkpt>
+      <trkpt lat="43.840584" lon="18.443073">
+        <ele>1046.7</ele>
+      </trkpt>
+      <trkpt lat="43.84054" lon="18.443183">
+        <ele>1048.6</ele>
+      </trkpt>
+      <trkpt lat="43.840491" lon="18.443235">
+        <ele>1049.8</ele>
+      </trkpt>
+      <trkpt lat="43.840447" lon="18.443267">
+        <ele>1050.6</ele>
+      </trkpt>
+      <trkpt lat="43.84036" lon="18.443246">
+        <ele>1051.1</ele>
+      </trkpt>
+      <trkpt lat="43.840118" lon="18.443113">
+        <ele>1050.7</ele>
+      </trkpt>
+      <trkpt lat="43.840006" lon="18.443063">
+        <ele>1051.4</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839931" lon="18.443029">
+        <ele>1051.8</ele>
+      </trkpt>
+      <trkpt lat="43.839774" lon="18.442956">
+        <ele>1054.0</ele>
+      </trkpt>
+      <trkpt lat="43.839761" lon="18.442957">
+        <ele>1054.2</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839663" lon="18.442966">
+        <ele>1055.1</ele>
+      </trkpt>
+      <trkpt lat="43.839579" lon="18.443025">
+        <ele>1055.9</ele>
+      </trkpt>
+      <trkpt lat="43.839554" lon="18.443068">
+        <ele>1056.7</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839531" lon="18.443108">
+        <ele>1057.3</ele>
+      </trkpt>
+      <trkpt lat="43.83972" lon="18.443145">
+        <ele>1057.0</ele>
+      </trkpt>
+      <trkpt lat="43.839739" lon="18.443193">
+        <ele>1057.1</ele>
+      </trkpt>
+      <trkpt lat="43.839642" lon="18.443175">
+        <ele>1058.0</ele>
+      </trkpt>
+      <trkpt lat="43.839547" lon="18.443168">
+        <ele>1058.5</ele>
+      </trkpt>
+      <trkpt lat="43.839484" lon="18.443187">
+        <ele>1059.1</ele>
+      </trkpt>
+      <trkpt lat="43.83944" lon="18.44323">
+        <ele>1060.2</ele>
+      </trkpt>
+      <trkpt lat="43.839407" lon="18.443302">
+        <ele>1062.2</ele>
+      </trkpt>
+      <trkpt lat="43.839413" lon="18.443313">
+        <ele>1062.5</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839518" lon="18.443513">
+        <ele>1067.4</ele>
+      </trkpt>
+      <trkpt lat="43.839596" lon="18.443652">
+        <ele>1069.3</ele>
+      </trkpt>
+      <trkpt lat="43.839659" lon="18.443746">
+        <ele>1069.7</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839704" lon="18.443813">
+        <ele>1069.9</ele>
+      </trkpt>
+      <trkpt lat="43.839774" lon="18.444017">
+        <ele>1072.1</ele>
+      </trkpt>
+      <trkpt lat="43.839797" lon="18.444226">
+        <ele>1075.4</ele>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444457">
+        <ele>1078.7</ele>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444473">
+        <ele>1079.0</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444655">
+        <ele>1081.5</ele>
+      </trkpt>
+      <trkpt lat="43.839863" lon="18.444822">
+        <ele>1082.8</ele>
+      </trkpt>
+      <trkpt lat="43.840006" lon="18.44501">
+        <ele>1083.1</ele>
+      </trkpt>
+      <trkpt lat="43.840161" lon="18.445213">
+        <ele>1084.0</ele>
+      </trkpt>
+      <trkpt lat="43.840232" lon="18.445347">
+        <ele>1085.8</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840261" lon="18.445401">
+        <ele>1086.6</ele>
+      </trkpt>
+      <trkpt lat="43.84035" lon="18.44561">
+        <ele>1089.6</ele>
+      </trkpt>
+      <trkpt lat="43.840412" lon="18.445814">
+        <ele>1090.5</ele>
+      </trkpt>
+      <trkpt lat="43.840366" lon="18.446056">
+        <ele>1095.5</ele>
+      </trkpt>
+      <trkpt lat="43.84025" lon="18.446292">
+        <ele>1101.1</ele>
+      </trkpt>
+      <trkpt lat="43.840202" lon="18.446681">
+        <ele>1106.7</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840192" lon="18.446769">
+        <ele>1107.9</ele>
+      </trkpt>
+      <trkpt lat="43.84023" lon="18.447032">
+        <ele>1108.6</ele>
+      </trkpt>
+      <trkpt lat="43.840257" lon="18.447327">
+        <ele>1113.0</ele>
+      </trkpt>
+      <trkpt lat="43.840255" lon="18.447427">
+        <ele>1114.9</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840246" lon="18.447778">
+        <ele>1121.5</ele>
+      </trkpt>
+      <trkpt lat="43.840319" lon="18.448094">
+        <ele>1121.6</ele>
+      </trkpt>
+      <trkpt lat="43.840404" lon="18.448346">
+        <ele>1122.1</ele>
+      </trkpt>
+      <trkpt lat="43.84047" lon="18.448625">
+        <ele>1123.8</ele>
+      </trkpt>
+      <trkpt lat="43.840529" lon="18.448815">
+        <ele>1125.0</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840571" lon="18.448952">
+        <ele>1125.8</ele>
+      </trkpt>
+      <trkpt lat="43.840668" lon="18.44914">
+        <ele>1127.1</ele>
+      </trkpt>
+      <trkpt lat="43.840726" lon="18.449382">
+        <ele>1131.7</ele>
+      </trkpt>
+      <trkpt lat="43.840741" lon="18.449634">
+        <ele>1134.9</ele>
+      </trkpt>
+      <trkpt lat="43.840718" lon="18.449875">
+        <ele>1136.3</ele>
+      </trkpt>
+      <trkpt lat="43.840668" lon="18.450149">
+        <ele>1137.1</ele>
+      </trkpt>
+      <trkpt lat="43.840645" lon="18.450306">
+        <ele>1137.0</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840633" lon="18.45039">
+        <ele>1137.0</ele>
+      </trkpt>
+      <trkpt lat="43.840598" lon="18.450492">
+        <ele>1136.8</ele>
+      </trkpt>
+      <trkpt lat="43.84059" lon="18.450453">
+        <ele>1137.2</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:locType>routingNode</oa:locType>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840573" lon="18.450374">
+        <ele>1138.0</ele>
+      </trkpt>
+      <trkpt lat="43.840446" lon="18.450088">
+        <ele>1142.6</ele>
+      </trkpt>
+      <trkpt lat="43.840415" lon="18.450022">
+        <ele>1144.1</ele>
+      </trkpt>
+      <trkpt lat="43.84036" lon="18.449855">
+        <ele>1146.8</ele>
+      </trkpt>
+      <trkpt lat="43.840333" lon="18.449728">
+        <ele>1147.6</ele>
+      </trkpt>
+      <trkpt lat="43.840319" lon="18.449663">
+        <ele>1147.6</ele>
+      </trkpt>
+      <trkpt lat="43.840275" lon="18.449394">
+        <ele>1145.3</ele>
+      </trkpt>
+      <trkpt lat="43.840244" lon="18.449298">
+        <ele>1144.6</ele>
+      </trkpt>
+      <trkpt lat="43.840218" lon="18.449218">
+        <ele>1144.1</ele>
+      </trkpt>
+      <trkpt lat="43.840134" lon="18.449099">
+        <ele>1146.1</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840218" lon="18.449218">
+        <ele>1144.1</ele>
+      </trkpt>
+      <trkpt lat="43.840244" lon="18.449298">
+        <ele>1144.6</ele>
+      </trkpt>
+      <trkpt lat="43.840275" lon="18.449394">
+        <ele>1145.3</ele>
+      </trkpt>
+      <trkpt lat="43.840319" lon="18.449663">
+        <ele>1147.6</ele>
+      </trkpt>
+      <trkpt lat="43.840333" lon="18.449728">
+        <ele>1147.6</ele>
+      </trkpt>
+      <trkpt lat="43.84036" lon="18.449855">
+        <ele>1146.8</ele>
+      </trkpt>
+      <trkpt lat="43.840415" lon="18.450022">
+        <ele>1144.1</ele>
+      </trkpt>
+      <trkpt lat="43.840446" lon="18.450088">
+        <ele>1142.6</ele>
+      </trkpt>
+      <trkpt lat="43.840573" lon="18.450374">
+        <ele>1138.0</ele>
+      </trkpt>
+      <trkpt lat="43.84059" lon="18.450453">
+        <ele>1137.2</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840598" lon="18.450492">
+        <ele>1136.8</ele>
+      </trkpt>
+      <trkpt lat="43.840633" lon="18.45039">
+        <ele>1137.0</ele>
+      </trkpt>
+      <trkpt lat="43.840645" lon="18.450306">
+        <ele>1137.0</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840668" lon="18.450149">
+        <ele>1137.1</ele>
+      </trkpt>
+      <trkpt lat="43.840718" lon="18.449875">
+        <ele>1136.3</ele>
+      </trkpt>
+      <trkpt lat="43.840741" lon="18.449634">
+        <ele>1134.9</ele>
+      </trkpt>
+      <trkpt lat="43.840726" lon="18.449382">
+        <ele>1131.7</ele>
+      </trkpt>
+      <trkpt lat="43.840668" lon="18.44914">
+        <ele>1127.1</ele>
+      </trkpt>
+      <trkpt lat="43.840571" lon="18.448952">
+        <ele>1125.8</ele>
+      </trkpt>
+      <trkpt lat="43.840529" lon="18.448815">
+        <ele>1125.0</ele>
+        <name>Vidikovac, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.84047" lon="18.448625">
+        <ele>1123.8</ele>
+      </trkpt>
+      <trkpt lat="43.840404" lon="18.448346">
+        <ele>1122.1</ele>
+      </trkpt>
+      <trkpt lat="43.840319" lon="18.448094">
+        <ele>1121.6</ele>
+      </trkpt>
+      <trkpt lat="43.840246" lon="18.447778">
+        <ele>1121.5</ele>
+      </trkpt>
+      <trkpt lat="43.840255" lon="18.447427">
+        <ele>1114.9</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840257" lon="18.447327">
+        <ele>1113.0</ele>
+      </trkpt>
+      <trkpt lat="43.84023" lon="18.447032">
+        <ele>1108.6</ele>
+      </trkpt>
+      <trkpt lat="43.840192" lon="18.446769">
+        <ele>1107.9</ele>
+      </trkpt>
+      <trkpt lat="43.840202" lon="18.446681">
+        <ele>1106.7</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.84025" lon="18.446292">
+        <ele>1101.1</ele>
+      </trkpt>
+      <trkpt lat="43.840366" lon="18.446056">
+        <ele>1095.5</ele>
+      </trkpt>
+      <trkpt lat="43.840412" lon="18.445814">
+        <ele>1090.5</ele>
+      </trkpt>
+      <trkpt lat="43.84035" lon="18.44561">
+        <ele>1089.6</ele>
+      </trkpt>
+      <trkpt lat="43.840261" lon="18.445401">
+        <ele>1086.6</ele>
+      </trkpt>
+      <trkpt lat="43.840232" lon="18.445347">
+        <ele>1085.8</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840161" lon="18.445213">
+        <ele>1084.0</ele>
+      </trkpt>
+      <trkpt lat="43.840006" lon="18.44501">
+        <ele>1083.1</ele>
+      </trkpt>
+      <trkpt lat="43.839863" lon="18.444822">
+        <ele>1082.8</ele>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444655">
+        <ele>1081.5</ele>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444473">
+        <ele>1079.0</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839816" lon="18.444457">
+        <ele>1078.7</ele>
+      </trkpt>
+      <trkpt lat="43.839797" lon="18.444226">
+        <ele>1075.4</ele>
+      </trkpt>
+      <trkpt lat="43.839774" lon="18.444017">
+        <ele>1072.1</ele>
+      </trkpt>
+      <trkpt lat="43.839704" lon="18.443813">
+        <ele>1069.9</ele>
+      </trkpt>
+      <trkpt lat="43.839659" lon="18.443746">
+        <ele>1069.7</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839596" lon="18.443652">
+        <ele>1069.3</ele>
+      </trkpt>
+      <trkpt lat="43.839518" lon="18.443513">
+        <ele>1067.4</ele>
+      </trkpt>
+      <trkpt lat="43.839413" lon="18.443313">
+        <ele>1062.5</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839407" lon="18.443302">
+        <ele>1062.2</ele>
+      </trkpt>
+      <trkpt lat="43.83944" lon="18.44323">
+        <ele>1060.2</ele>
+      </trkpt>
+      <trkpt lat="43.839484" lon="18.443187">
+        <ele>1059.1</ele>
+      </trkpt>
+      <trkpt lat="43.839547" lon="18.443168">
+        <ele>1058.5</ele>
+      </trkpt>
+      <trkpt lat="43.839642" lon="18.443175">
+        <ele>1058.0</ele>
+      </trkpt>
+      <trkpt lat="43.839739" lon="18.443193">
+        <ele>1057.1</ele>
+      </trkpt>
+      <trkpt lat="43.83972" lon="18.443145">
+        <ele>1057.0</ele>
+      </trkpt>
+      <trkpt lat="43.839531" lon="18.443108">
+        <ele>1057.3</ele>
+      </trkpt>
+      <trkpt lat="43.839554" lon="18.443068">
+        <ele>1056.7</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839579" lon="18.443025">
+        <ele>1055.9</ele>
+      </trkpt>
+      <trkpt lat="43.839663" lon="18.442966">
+        <ele>1055.1</ele>
+      </trkpt>
+      <trkpt lat="43.839761" lon="18.442957">
+        <ele>1054.2</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.839774" lon="18.442956">
+        <ele>1054.0</ele>
+      </trkpt>
+      <trkpt lat="43.839931" lon="18.443029">
+        <ele>1051.8</ele>
+      </trkpt>
+      <trkpt lat="43.840006" lon="18.443063">
+        <ele>1051.4</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840118" lon="18.443113">
+        <ele>1050.7</ele>
+      </trkpt>
+      <trkpt lat="43.84036" lon="18.443246">
+        <ele>1051.1</ele>
+      </trkpt>
+      <trkpt lat="43.840447" lon="18.443267">
+        <ele>1050.6</ele>
+      </trkpt>
+      <trkpt lat="43.840491" lon="18.443235">
+        <ele>1049.8</ele>
+      </trkpt>
+      <trkpt lat="43.84054" lon="18.443183">
+        <ele>1048.6</ele>
+      </trkpt>
+      <trkpt lat="43.840584" lon="18.443073">
+        <ele>1046.7</ele>
+      </trkpt>
+      <trkpt lat="43.840598" lon="18.443025">
+        <ele>1045.9</ele>
+      </trkpt>
+      <trkpt lat="43.840607" lon="18.44294">
+        <ele>1044.7</ele>
+      </trkpt>
+      <trkpt lat="43.840611" lon="18.442876">
+        <ele>1043.9</ele>
+      </trkpt>
+      <trkpt lat="43.84065" lon="18.442878">
+        <ele>1042.8</ele>
+      </trkpt>
+      <trkpt lat="43.840653" lon="18.442789">
+        <ele>1041.7</ele>
+      </trkpt>
+      <trkpt lat="43.840656" lon="18.442722">
+        <ele>1040.9</ele>
+      </trkpt>
+      <trkpt lat="43.840639" lon="18.442613">
+        <ele>1040.4</ele>
+      </trkpt>
+      <trkpt lat="43.840636" lon="18.442601">
+        <ele>1040.3</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.840621" lon="18.442542">
+        <ele>1040.1</ele>
+      </trkpt>
+      <trkpt lat="43.84061" lon="18.442292">
+        <ele>1037.9</ele>
+      </trkpt>
+      <trkpt lat="43.840644" lon="18.442186">
+        <ele>1036.3</ele>
+      </trkpt>
+      <trkpt lat="43.840685" lon="18.442144">
+        <ele>1035.1</ele>
+      </trkpt>
+      <trkpt lat="43.840739" lon="18.442138">
+        <ele>1033.9</ele>
+      </trkpt>
+      <trkpt lat="43.840865" lon="18.442185">
+        <ele>1030.7</ele>
+      </trkpt>
+      <trkpt lat="43.841024" lon="18.442264">
+        <ele>1025.3</ele>
+      </trkpt>
+      <trkpt lat="43.841039" lon="18.442281">
+        <ele>1025.0</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841093" lon="18.442341">
+        <ele>1024.1</ele>
+      </trkpt>
+      <trkpt lat="43.841131" lon="18.442338">
+        <ele>1023.2</ele>
+      </trkpt>
+      <trkpt lat="43.841141" lon="18.442337">
+        <ele>1023.0</ele>
+      </trkpt>
+      <trkpt lat="43.841182" lon="18.442333">
+        <ele>1022.2</ele>
+      </trkpt>
+      <trkpt lat="43.841203" lon="18.442322">
+        <ele>1021.7</ele>
+      </trkpt>
+      <trkpt lat="43.841377" lon="18.442406">
+        <ele>1021.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841413" lon="18.442423">
+        <ele>1021.4</ele>
+      </trkpt>
+      <trkpt lat="43.841604" lon="18.442507">
+        <ele>1020.1</ele>
+      </trkpt>
+      <trkpt lat="43.841663" lon="18.442534">
+        <ele>1019.2</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.84185" lon="18.442618">
+        <ele>1016.3</ele>
+      </trkpt>
+      <trkpt lat="43.841935" lon="18.442657">
+        <ele>1014.6</ele>
+      </trkpt>
+      <trkpt lat="43.84194" lon="18.442657">
+        <ele>1014.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.842034" lon="18.442669">
+        <ele>1012.6</ele>
+      </trkpt>
+      <trkpt lat="43.842101" lon="18.442626">
+        <ele>1011.2</ele>
+      </trkpt>
+      <trkpt lat="43.842171" lon="18.442552">
+        <ele>1009.9</ele>
+      </trkpt>
+      <trkpt lat="43.842217" lon="18.44243">
+        <ele>1009.1</ele>
+      </trkpt>
+      <trkpt lat="43.842231" lon="18.442343">
+        <ele>1008.8</ele>
+      </trkpt>
+      <trkpt lat="43.842227" lon="18.442221">
+        <ele>1008.9</ele>
+      </trkpt>
+      <trkpt lat="43.842209" lon="18.442114">
+        <ele>1009.5</ele>
+      </trkpt>
+      <trkpt lat="43.842171" lon="18.442013">
+        <ele>1010.3</ele>
+      </trkpt>
+      <trkpt lat="43.842103" lon="18.441947">
+        <ele>1010.9</ele>
+      </trkpt>
+      <trkpt lat="43.842035" lon="18.441915">
+        <ele>1011.3</ele>
+      </trkpt>
+      <trkpt lat="43.841939" lon="18.441903">
+        <ele>1011.9</ele>
+      </trkpt>
+      <trkpt lat="43.84166" lon="18.441895">
+        <ele>1013.6</ele>
+      </trkpt>
+      <trkpt lat="43.841537" lon="18.441866">
+        <ele>1013.7</ele>
+      </trkpt>
+      <trkpt lat="43.841451" lon="18.441766">
+        <ele>1013.2</ele>
+      </trkpt>
+      <trkpt lat="43.84144" lon="18.441595">
+        <ele>1012.0</ele>
+      </trkpt>
+      <trkpt lat="43.841469" lon="18.441442">
+        <ele>1010.6</ele>
+      </trkpt>
+      <trkpt lat="43.841531" lon="18.441225">
+        <ele>1008.3</ele>
+      </trkpt>
+      <trkpt lat="43.841542" lon="18.441184">
+        <ele>1007.9</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841591" lon="18.441013">
+        <ele>1005.8</ele>
+      </trkpt>
+      <trkpt lat="43.841616" lon="18.440885">
+        <ele>1003.8</ele>
+      </trkpt>
+      <trkpt lat="43.84163" lon="18.440714">
+        <ele>1001.6</ele>
+      </trkpt>
+      <trkpt lat="43.841658" lon="18.440509">
+        <ele>999.5</ele>
+        <name>Old Bobsleigh track, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.841667" lon="18.440443">
+        <ele>998.8</ele>
+      </trkpt>
+      <trkpt lat="43.841748" lon="18.440247">
+        <ele>996.7</ele>
+      </trkpt>
+      <trkpt lat="43.841862" lon="18.440067">
+        <ele>994.2</ele>
+      </trkpt>
+      <trkpt lat="43.841951" lon="18.439907">
+        <ele>991.5</ele>
+      </trkpt>
+      <trkpt lat="43.842032" lon="18.439929">
+        <ele>991.1</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.842084" lon="18.439943">
+        <ele>990.7</ele>
+      </trkpt>
+      <trkpt lat="43.842248" lon="18.439972">
+        <ele>989.2</ele>
+      </trkpt>
+      <trkpt lat="43.842321" lon="18.440038">
+        <ele>989.7</ele>
+      </trkpt>
+      <trkpt lat="43.842405" lon="18.440075">
+        <ele>989.4</ele>
+      </trkpt>
+      <trkpt lat="43.842417" lon="18.440084">
+        <ele>989.5</ele>
+      </trkpt>
+      <trkpt lat="43.842437" lon="18.440086">
+        <ele>989.3</ele>
+      </trkpt>
+      <trkpt lat="43.842518" lon="18.440093">
+        <ele>988.4</ele>
+      </trkpt>
+      <trkpt lat="43.842536" lon="18.440095">
+        <ele>988.2</ele>
+      </trkpt>
+      <trkpt lat="43.842538" lon="18.440063">
+        <ele>987.7</ele>
+      </trkpt>
+      <trkpt lat="43.842538" lon="18.439993">
+        <ele>986.5</ele>
+      </trkpt>
+      <trkpt lat="43.842551" lon="18.439932">
+        <ele>985.4</ele>
+      </trkpt>
+      <trkpt lat="43.842579" lon="18.439894">
+        <ele>984.5</ele>
+      </trkpt>
+      <trkpt lat="43.842674" lon="18.43989">
+        <ele>983.6</ele>
+      </trkpt>
+      <trkpt lat="43.842814" lon="18.439878">
+        <ele>981.7</ele>
+      </trkpt>
+      <trkpt lat="43.842969" lon="18.439868">
+        <ele>979.1</ele>
+      </trkpt>
+      <trkpt lat="43.84302" lon="18.43986">
+        <ele>978.2</ele>
+      </trkpt>
+      <trkpt lat="43.84306" lon="18.439872">
+        <ele>977.3</ele>
+      </trkpt>
+      <trkpt lat="43.843198" lon="18.439896">
+        <ele>973.9</ele>
+      </trkpt>
+      <trkpt lat="43.843288" lon="18.439825">
+        <ele>971.0</ele>
+      </trkpt>
+      <trkpt lat="43.843377" lon="18.439729">
+        <ele>967.9</ele>
+      </trkpt>
+      <trkpt lat="43.843479" lon="18.439654">
+        <ele>965.3</ele>
+      </trkpt>
+      <trkpt lat="43.843609" lon="18.439597">
+        <ele>961.7</ele>
+      </trkpt>
+      <trkpt lat="43.843751" lon="18.439427">
+        <ele>956.0</ele>
+      </trkpt>
+      <trkpt lat="43.843889" lon="18.439275">
+        <ele>950.8</ele>
+      </trkpt>
+      <trkpt lat="43.843976" lon="18.43923">
+        <ele>948.1</ele>
+      </trkpt>
+      <trkpt lat="43.844074" lon="18.439237">
+        <ele>944.9</ele>
+      </trkpt>
+      <trkpt lat="43.844169" lon="18.439315">
+        <ele>942.0</ele>
+      </trkpt>
+      <trkpt lat="43.844247" lon="18.439239">
+        <ele>939.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.844277" lon="18.43921">
+        <ele>938.7</ele>
+      </trkpt>
+      <trkpt lat="43.844519" lon="18.439163">
+        <ele>932.1</ele>
+      </trkpt>
+      <trkpt lat="43.844636" lon="18.439141">
+        <ele>929.4</ele>
+      </trkpt>
+      <trkpt lat="43.844767" lon="18.439146">
+        <ele>927.3</ele>
+      </trkpt>
+      <trkpt lat="43.845146" lon="18.439109">
+        <ele>924.2</ele>
+      </trkpt>
+      <trkpt lat="43.845208" lon="18.439063">
+        <ele>923.2</ele>
+      </trkpt>
+      <trkpt lat="43.845232" lon="18.439031">
+        <ele>922.7</ele>
+      </trkpt>
+      <trkpt lat="43.845212" lon="18.438898">
+        <ele>920.4</ele>
+      </trkpt>
+      <trkpt lat="43.845075" lon="18.438518">
+        <ele>914.5</ele>
+      </trkpt>
+      <trkpt lat="43.844941" lon="18.438323">
+        <ele>912.2</ele>
+      </trkpt>
+      <trkpt lat="43.84487" lon="18.43822">
+        <ele>910.2</ele>
+      </trkpt>
+      <trkpt lat="43.844879" lon="18.438169">
+        <ele>907.4</ele>
+      </trkpt>
+      <trkpt lat="43.845023" lon="18.438164">
+        <ele>902.5</ele>
+      </trkpt>
+      <trkpt lat="43.845214" lon="18.438185">
+        <ele>901.7</ele>
+      </trkpt>
+      <trkpt lat="43.845289" lon="18.438162">
+        <ele>900.4</ele>
+      </trkpt>
+      <trkpt lat="43.845316" lon="18.438085">
+        <ele>897.1</ele>
+      </trkpt>
+      <trkpt lat="43.84527" lon="18.437951">
+        <ele>891.8</ele>
+      </trkpt>
+      <trkpt lat="43.845183" lon="18.437769">
+        <ele>885.7</ele>
+      </trkpt>
+      <trkpt lat="43.845061" lon="18.437561">
+        <ele>886.3</ele>
+      </trkpt>
+      <trkpt lat="43.845024" lon="18.437442">
+        <ele>885.8</ele>
+      </trkpt>
+      <trkpt lat="43.84509" lon="18.437386">
+        <ele>881.4</ele>
+      </trkpt>
+      <trkpt lat="43.845413" lon="18.437354">
+        <ele>872.2</ele>
+      </trkpt>
+      <trkpt lat="43.845454" lon="18.437282">
+        <ele>869.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.845483" lon="18.437231">
+        <ele>867.8</ele>
+      </trkpt>
+      <trkpt lat="43.845624" lon="18.437129">
+        <ele>863.7</ele>
+      </trkpt>
+      <trkpt lat="43.845768" lon="18.436825">
+        <ele>856.5</ele>
+      </trkpt>
+      <trkpt lat="43.845938" lon="18.436514">
+        <ele>850.3</ele>
+      </trkpt>
+      <trkpt lat="43.846071" lon="18.436247">
+        <ele>842.9</ele>
+      </trkpt>
+      <trkpt lat="43.846118" lon="18.436068">
+        <ele>837.6</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.846105" lon="18.436027">
+        <ele>835.9</ele>
+      </trkpt>
+      <trkpt lat="43.846061" lon="18.436015">
+        <ele>834.5</ele>
+      </trkpt>
+      <trkpt lat="43.845991" lon="18.436011">
+        <ele>832.6</ele>
+      </trkpt>
+      <trkpt lat="43.845942" lon="18.435867">
+        <ele>826.5</ele>
+      </trkpt>
+      <trkpt lat="43.845883" lon="18.435732">
+        <ele>822.2</ele>
+      </trkpt>
+      <trkpt lat="43.845866" lon="18.435583">
+        <ele>819.5</ele>
+      </trkpt>
+      <trkpt lat="43.845919" lon="18.435432">
+        <ele>817.0</ele>
+      </trkpt>
+      <trkpt lat="43.845968" lon="18.435314">
+        <ele>814.4</ele>
+      </trkpt>
+      <trkpt lat="43.846049" lon="18.43525">
+        <ele>811.7</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.846127" lon="18.435187">
+        <ele>809.1</ele>
+      </trkpt>
+      <trkpt lat="43.846201" lon="18.435115">
+        <ele>805.9</ele>
+      </trkpt>
+      <trkpt lat="43.846271" lon="18.435061">
+        <ele>803.1</ele>
+      </trkpt>
+      <trkpt lat="43.846301" lon="18.434982">
+        <ele>800.2</ele>
+      </trkpt>
+      <trkpt lat="43.846398" lon="18.434896">
+        <ele>797.1</ele>
+      </trkpt>
+      <trkpt lat="43.846453" lon="18.43481">
+        <ele>795.0</ele>
+      </trkpt>
+      <trkpt lat="43.846505" lon="18.434783">
+        <ele>794.7</ele>
+      </trkpt>
+      <trkpt lat="43.846561" lon="18.434729">
+        <ele>793.7</ele>
+      </trkpt>
+      <trkpt lat="43.846573" lon="18.434574">
+        <ele>789.9</ele>
+      </trkpt>
+      <trkpt lat="43.846597" lon="18.434516">
+        <ele>788.7</ele>
+      </trkpt>
+      <trkpt lat="43.846603" lon="18.434441">
+        <ele>787.0</ele>
+      </trkpt>
+      <trkpt lat="43.846629" lon="18.434352">
+        <ele>784.8</ele>
+      </trkpt>
+      <trkpt lat="43.846612" lon="18.434276">
+        <ele>783.2</ele>
+      </trkpt>
+      <trkpt lat="43.846624" lon="18.434196">
+        <ele>781.2</ele>
+      </trkpt>
+      <trkpt lat="43.846622" lon="18.434071">
+        <ele>778.2</ele>
+      </trkpt>
+      <trkpt lat="43.846646" lon="18.433979">
+        <ele>775.4</ele>
+      </trkpt>
+      <trkpt lat="43.846647" lon="18.433911">
+        <ele>773.8</ele>
+      </trkpt>
+      <trkpt lat="43.846672" lon="18.433788">
+        <ele>770.9</ele>
+      </trkpt>
+      <trkpt lat="43.846707" lon="18.433706">
+        <ele>769.0</ele>
+      </trkpt>
+      <trkpt lat="43.846766" lon="18.433653">
+        <ele>768.0</ele>
+        <name>Boguševac, MZ &quot;Toka Džeka&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>19</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

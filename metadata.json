@@ -1,0 +1,6 @@
+{
+  "name": "PSD Trebević Sarajevo - Mountaineering Portal",
+  "description": "Official portal of mountaineering club PSD Trebević Sarajevo: mountain trails, live summit weather, event registrations, Olympic history, photo gallery, AI mountain guide, and free WordPress publishing suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

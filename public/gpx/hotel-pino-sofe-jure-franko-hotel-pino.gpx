@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gpx version="1.1" creator="outdooractive - http://www.outdooractive.com" xmlns="http://www.topografix.com/GPX/1/1" xmlns:oa="http://www.outdooractive.com/GPX/Extensions/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.outdooractive.com/GPX/Extensions/1 https://www.outdooractive.com/schema/gpx_extensions.xsd">
+  <metadata>
+    <name>Trebević Hike (Pino - Jure Franko - Sofe)</name>
+    <author>
+      <name>Amir Cisija - Community</name>
+    </author>
+    <link href="https://www.outdooractive.com/r/353412588"/>
+    <time>2026-10-01T10:20:20.068Z</time>
+    <extensions>
+      <oa:oaCategory>hikingTourTrail</oa:oaCategory>
+    </extensions>
+  </metadata>
+  <trk>
+    <name>Trebević Hike (Pino - Jure Franko - Sofe)</name>
+    <desc>Scenic Trebević loop from Pino via Dobre Vode and Jure Franko to Sofe (1,629 m), returning through forest trails and steep serpentines.</desc>
+    <type>hikingTourTrail</type>
+    <trkseg>
+      <trkpt lat="43.837325" lon="18.452388">
+        <ele>1071.9</ele>
+        <name>R-446, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.837333" lon="18.452406">
+        <ele>1072.0</ele>
+      </trkpt>
+      <trkpt lat="43.837487" lon="18.452715">
+        <ele>1074.7</ele>
+      </trkpt>
+      <trkpt lat="43.837414" lon="18.4528">
+        <ele>1073.9</ele>
+      </trkpt>
+      <trkpt lat="43.837265" lon="18.452996">
+        <ele>1070.9</ele>
+      </trkpt>
+      <trkpt lat="43.837135" lon="18.453132">
+        <ele>1068.8</ele>
+      </trkpt>
+      <trkpt lat="43.837094" lon="18.453163">
+        <ele>1068.4</ele>
+      </trkpt>
+      <trkpt lat="43.83705" lon="18.453196">
+        <ele>1068.3</ele>
+      </trkpt>
+      <trkpt lat="43.837005" lon="18.453257">
+        <ele>1068.5</ele>
+      </trkpt>
+      <trkpt lat="43.836927" lon="18.45336">
+        <ele>1069.2</ele>
+      </trkpt>
+      <trkpt lat="43.836809" lon="18.453575">
+        <ele>1071.1</ele>
+      </trkpt>
+      <trkpt lat="43.836659" lon="18.453807">
+        <ele>1074.4</ele>
+      </trkpt>
+      <trkpt lat="43.836576" lon="18.45392">
+        <ele>1075.6</ele>
+      </trkpt>
+      <trkpt lat="43.836517" lon="18.453975">
+        <ele>1076.1</ele>
+      </trkpt>
+      <trkpt lat="43.836471" lon="18.453975">
+        <ele>1076.2</ele>
+      </trkpt>
+      <trkpt lat="43.836468" lon="18.454206">
+        <ele>1077.2</ele>
+      </trkpt>
+      <trkpt lat="43.836352" lon="18.454588">
+        <ele>1080.5</ele>
+      </trkpt>
+      <trkpt lat="43.836236" lon="18.45497">
+        <ele>1084.1</ele>
+      </trkpt>
+      <trkpt lat="43.836181" lon="18.455293">
+        <ele>1087.0</ele>
+      </trkpt>
+      <trkpt lat="43.836097" lon="18.455479">
+        <ele>1088.5</ele>
+      </trkpt>
+      <trkpt lat="43.835891" lon="18.455713">
+        <ele>1089.1</ele>
+      </trkpt>
+      <trkpt lat="43.835547" lon="18.456035">
+        <ele>1095.5</ele>
+      </trkpt>
+      <trkpt lat="43.835383" lon="18.456133">
+        <ele>1099.7</ele>
+      </trkpt>
+      <trkpt lat="43.835262" lon="18.456147">
+        <ele>1102.6</ele>
+      </trkpt>
+      <trkpt lat="43.835115" lon="18.456158">
+        <ele>1106.1</ele>
+      </trkpt>
+      <trkpt lat="43.834939" lon="18.456086">
+        <ele>1111.0</ele>
+      </trkpt>
+      <trkpt lat="43.834887" lon="18.456081">
+        <ele>1112.9</ele>
+      </trkpt>
+      <trkpt lat="43.834801" lon="18.45602">
+        <ele>1116.0</ele>
+      </trkpt>
+      <trkpt lat="43.834423" lon="18.455915">
+        <ele>1126.5</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.83436" lon="18.455898">
+        <ele>1128.2</ele>
+      </trkpt>
+      <trkpt lat="43.834041" lon="18.456096">
+        <ele>1134.8</ele>
+      </trkpt>
+      <trkpt lat="43.833649" lon="18.456135">
+        <ele>1142.1</ele>
+      </trkpt>
+      <trkpt lat="43.833258" lon="18.456173">
+        <ele>1152.9</ele>
+      </trkpt>
+      <trkpt lat="43.83292" lon="18.456112">
+        <ele>1158.0</ele>
+      </trkpt>
+      <trkpt lat="43.832839" lon="18.456193">
+        <ele>1159.9</ele>
+      </trkpt>
+      <trkpt lat="43.832725" lon="18.456219">
+        <ele>1161.9</ele>
+      </trkpt>
+      <trkpt lat="43.832501" lon="18.456203">
+        <ele>1164.9</ele>
+      </trkpt>
+      <trkpt lat="43.832314" lon="18.456147">
+        <ele>1167.0</ele>
+      </trkpt>
+      <trkpt lat="43.831947" lon="18.456244">
+        <ele>1171.3</ele>
+      </trkpt>
+      <trkpt lat="43.831719" lon="18.4563">
+        <ele>1173.6</ele>
+      </trkpt>
+      <trkpt lat="43.831491" lon="18.456356">
+        <ele>1175.4</ele>
+      </trkpt>
+      <trkpt lat="43.831364" lon="18.456383">
+        <ele>1176.2</ele>
+      </trkpt>
+      <trkpt lat="43.831227" lon="18.456443">
+        <ele>1177.6</ele>
+      </trkpt>
+      <trkpt lat="43.83102" lon="18.45653">
+        <ele>1180.3</ele>
+      </trkpt>
+      <trkpt lat="43.830782" lon="18.456551">
+        <ele>1185.1</ele>
+      </trkpt>
+      <trkpt lat="43.830421" lon="18.456446">
+        <ele>1196.6</ele>
+      </trkpt>
+      <trkpt lat="43.830006" lon="18.456362">
+        <ele>1207.9</ele>
+      </trkpt>
+      <trkpt lat="43.829859" lon="18.456474">
+        <ele>1209.7</ele>
+      </trkpt>
+      <trkpt lat="43.829635" lon="18.456607">
+        <ele>1213.0</ele>
+      </trkpt>
+      <trkpt lat="43.829355" lon="18.45646">
+        <ele>1216.3</ele>
+      </trkpt>
+      <trkpt lat="43.829216" lon="18.456457">
+        <ele>1219.7</ele>
+      </trkpt>
+      <trkpt lat="43.829214" lon="18.456556">
+        <ele>1221.1</ele>
+      </trkpt>
+      <trkpt lat="43.829156" lon="18.456594">
+        <ele>1223.3</ele>
+      </trkpt>
+      <trkpt lat="43.829097" lon="18.456773">
+        <ele>1227.1</ele>
+      </trkpt>
+      <trkpt lat="43.829089" lon="18.456944">
+        <ele>1229.0</ele>
+      </trkpt>
+      <trkpt lat="43.829018" lon="18.457078">
+        <ele>1231.6</ele>
+      </trkpt>
+      <trkpt lat="43.828857" lon="18.457135">
+        <ele>1236.4</ele>
+      </trkpt>
+      <trkpt lat="43.828684" lon="18.457135">
+        <ele>1241.9</ele>
+      </trkpt>
+      <trkpt lat="43.828502" lon="18.457029">
+        <ele>1245.4</ele>
+      </trkpt>
+      <trkpt lat="43.828323" lon="18.457121">
+        <ele>1248.5</ele>
+      </trkpt>
+      <trkpt lat="43.828205" lon="18.457256">
+        <ele>1252.3</ele>
+      </trkpt>
+      <trkpt lat="43.827975" lon="18.457514">
+        <ele>1260.4</ele>
+      </trkpt>
+      <trkpt lat="43.827635" lon="18.457591">
+        <ele>1270.2</ele>
+      </trkpt>
+      <trkpt lat="43.827467" lon="18.45755">
+        <ele>1273.9</ele>
+      </trkpt>
+      <trkpt lat="43.827352" lon="18.457643">
+        <ele>1276.5</ele>
+      </trkpt>
+      <trkpt lat="43.827303" lon="18.457806">
+        <ele>1277.6</ele>
+      </trkpt>
+      <trkpt lat="43.827212" lon="18.457773">
+        <ele>1279.2</ele>
+      </trkpt>
+      <trkpt lat="43.827129" lon="18.457704">
+        <ele>1280.8</ele>
+      </trkpt>
+      <trkpt lat="43.827051" lon="18.457707">
+        <ele>1282.4</ele>
+      </trkpt>
+      <trkpt lat="43.826825" lon="18.457739">
+        <ele>1287.4</ele>
+      </trkpt>
+      <trkpt lat="43.826713" lon="18.457785">
+        <ele>1289.9</ele>
+      </trkpt>
+      <trkpt lat="43.826602" lon="18.457755">
+        <ele>1292.6</ele>
+      </trkpt>
+      <trkpt lat="43.826385" lon="18.457831">
+        <ele>1298.1</ele>
+      </trkpt>
+      <trkpt lat="43.826301" lon="18.458008">
+        <ele>1299.2</ele>
+      </trkpt>
+      <trkpt lat="43.826165" lon="18.458024">
+        <ele>1300.9</ele>
+      </trkpt>
+      <trkpt lat="43.825959" lon="18.45807">
+        <ele>1306.4</ele>
+      </trkpt>
+      <trkpt lat="43.826032" lon="18.458185">
+        <ele>1304.5</ele>
+      </trkpt>
+      <trkpt lat="43.826064" lon="18.458291">
+        <ele>1304.1</ele>
+      </trkpt>
+      <trkpt lat="43.826072" lon="18.458386">
+        <ele>1304.2</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Довлићи / Dovlići, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.826064" lon="18.458291">
+        <ele>1304.1</ele>
+      </trkpt>
+      <trkpt lat="43.826032" lon="18.458185">
+        <ele>1304.5</ele>
+      </trkpt>
+      <trkpt lat="43.825959" lon="18.45807">
+        <ele>1306.4</ele>
+      </trkpt>
+      <trkpt lat="43.825862" lon="18.45797">
+        <ele>1310.1</ele>
+      </trkpt>
+      <trkpt lat="43.825816" lon="18.457859">
+        <ele>1312.3</ele>
+      </trkpt>
+      <trkpt lat="43.825701" lon="18.457772">
+        <ele>1317.2</ele>
+      </trkpt>
+      <trkpt lat="43.825635" lon="18.45772">
+        <ele>1319.9</ele>
+      </trkpt>
+      <trkpt lat="43.825621" lon="18.457387">
+        <ele>1320.7</ele>
+      </trkpt>
+      <trkpt lat="43.825518" lon="18.457109">
+        <ele>1324.2</ele>
+      </trkpt>
+      <trkpt lat="43.825481" lon="18.457008">
+        <ele>1325.7</ele>
+      </trkpt>
+      <trkpt lat="43.825361" lon="18.456526">
+        <ele>1331.8</ele>
+      </trkpt>
+      <trkpt lat="43.825338" lon="18.456097">
+        <ele>1332.8</ele>
+      </trkpt>
+      <trkpt lat="43.825257" lon="18.455751">
+        <ele>1336.1</ele>
+      </trkpt>
+      <trkpt lat="43.825113" lon="18.455269">
+        <ele>1342.4</ele>
+      </trkpt>
+      <trkpt lat="43.825072" lon="18.45513">
+        <ele>1342.6</ele>
+      </trkpt>
+      <trkpt lat="43.824894" lon="18.454664">
+        <ele>1345.5</ele>
+      </trkpt>
+      <trkpt lat="43.824845" lon="18.454317">
+        <ele>1347.8</ele>
+      </trkpt>
+      <trkpt lat="43.824796" lon="18.45397">
+        <ele>1352.3</ele>
+      </trkpt>
+      <trkpt lat="43.8249" lon="18.453533">
+        <ele>1360.3</ele>
+      </trkpt>
+      <trkpt lat="43.825004" lon="18.453096">
+        <ele>1367.0</ele>
+      </trkpt>
+      <trkpt lat="43.825008" lon="18.453028">
+        <ele>1368.0</ele>
+      </trkpt>
+      <trkpt lat="43.825036" lon="18.452586">
+        <ele>1371.1</ele>
+      </trkpt>
+      <trkpt lat="43.825064" lon="18.452144">
+        <ele>1383.7</ele>
+      </trkpt>
+      <trkpt lat="43.825311" lon="18.451671">
+        <ele>1382.8</ele>
+      </trkpt>
+      <trkpt lat="43.825492" lon="18.451335">
+        <ele>1379.7</ele>
+      </trkpt>
+      <trkpt lat="43.825674" lon="18.450998">
+        <ele>1380.1</ele>
+      </trkpt>
+      <trkpt lat="43.825924" lon="18.450749">
+        <ele>1374.6</ele>
+      </trkpt>
+      <trkpt lat="43.826029" lon="18.450507">
+        <ele>1377.6</ele>
+      </trkpt>
+      <trkpt lat="43.826177" lon="18.450012">
+        <ele>1383.3</ele>
+      </trkpt>
+      <trkpt lat="43.826348" lon="18.449741">
+        <ele>1384.8</ele>
+      </trkpt>
+      <trkpt lat="43.826598" lon="18.449577">
+        <ele>1382.4</ele>
+      </trkpt>
+      <trkpt lat="43.826689" lon="18.449442">
+        <ele>1382.0</ele>
+      </trkpt>
+      <trkpt lat="43.826655" lon="18.449222">
+        <ele>1388.5</ele>
+      </trkpt>
+      <trkpt lat="43.826712" lon="18.449003">
+        <ele>1389.3</ele>
+      </trkpt>
+      <trkpt lat="43.826712" lon="18.448835">
+        <ele>1391.8</ele>
+      </trkpt>
+      <trkpt lat="43.826615" lon="18.448545">
+        <ele>1399.5</ele>
+      </trkpt>
+      <trkpt lat="43.826564" lon="18.448302">
+        <ele>1402.9</ele>
+      </trkpt>
+      <trkpt lat="43.826546" lon="18.448173">
+        <ele>1404.4</ele>
+      </trkpt>
+      <trkpt lat="43.826516" lon="18.447963">
+        <ele>1405.8</ele>
+      </trkpt>
+      <trkpt lat="43.826448" lon="18.447842">
+        <ele>1407.9</ele>
+        <name>Vrh Trebevića, Довлићи / Dovlići, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.826425" lon="18.447802">
+        <ele>1408.6</ele>
+      </trkpt>
+      <trkpt lat="43.826287" lon="18.448162">
+        <ele>1412.7</ele>
+      </trkpt>
+      <trkpt lat="43.82615" lon="18.448522">
+        <ele>1415.1</ele>
+      </trkpt>
+      <trkpt lat="43.826042" lon="18.448893">
+        <ele>1415.6</ele>
+      </trkpt>
+      <trkpt lat="43.825933" lon="18.449263">
+        <ele>1415.2</ele>
+      </trkpt>
+      <trkpt lat="43.825817" lon="18.449445">
+        <ele>1415.6</ele>
+      </trkpt>
+      <trkpt lat="43.8256" lon="18.449638">
+        <ele>1419.8</ele>
+      </trkpt>
+      <trkpt lat="43.825476" lon="18.449906">
+        <ele>1421.2</ele>
+      </trkpt>
+      <trkpt lat="43.825434" lon="18.449982">
+        <ele>1422.6</ele>
+      </trkpt>
+      <trkpt lat="43.825366" lon="18.450014">
+        <ele>1425.4</ele>
+      </trkpt>
+      <trkpt lat="43.825331" lon="18.449983">
+        <ele>1427.0</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Блзанци / Blizanci, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.825316" lon="18.44997">
+        <ele>1427.7</ele>
+      </trkpt>
+      <trkpt lat="43.825306" lon="18.449831">
+        <ele>1428.6</ele>
+      </trkpt>
+      <trkpt lat="43.825318" lon="18.449456">
+        <ele>1431.0</ele>
+      </trkpt>
+      <trkpt lat="43.825329" lon="18.44908">
+        <ele>1431.8</ele>
+      </trkpt>
+      <trkpt lat="43.825306" lon="18.448876">
+        <ele>1432.4</ele>
+      </trkpt>
+      <trkpt lat="43.82519" lon="18.448651">
+        <ele>1434.4</ele>
+      </trkpt>
+      <trkpt lat="43.825175" lon="18.448437">
+        <ele>1434.6</ele>
+      </trkpt>
+      <trkpt lat="43.825182" lon="18.448306">
+        <ele>1434.5</ele>
+      </trkpt>
+      <trkpt lat="43.825193" lon="18.448149">
+        <ele>1434.4</ele>
+      </trkpt>
+      <trkpt lat="43.825164" lon="18.44809">
+        <ele>1435.0</ele>
+      </trkpt>
+      <trkpt lat="43.825109" lon="18.448087">
+        <ele>1435.9</ele>
+      </trkpt>
+      <trkpt lat="43.825059" lon="18.448136">
+        <ele>1436.9</ele>
+      </trkpt>
+      <trkpt lat="43.824997" lon="18.448447">
+        <ele>1438.0</ele>
+      </trkpt>
+      <trkpt lat="43.825043" lon="18.449037">
+        <ele>1438.0</ele>
+      </trkpt>
+      <trkpt lat="43.824973" lon="18.449273">
+        <ele>1439.5</ele>
+      </trkpt>
+      <trkpt lat="43.824873" lon="18.449563">
+        <ele>1443.1</ele>
+      </trkpt>
+      <trkpt lat="43.824826" lon="18.449949">
+        <ele>1444.5</ele>
+      </trkpt>
+      <trkpt lat="43.824753" lon="18.450286">
+        <ele>1444.0</ele>
+      </trkpt>
+      <trkpt lat="43.824668" lon="18.450421">
+        <ele>1443.7</ele>
+      </trkpt>
+      <trkpt lat="43.824581" lon="18.450449">
+        <ele>1444.7</ele>
+      </trkpt>
+      <trkpt lat="43.824493" lon="18.450346">
+        <ele>1448.1</ele>
+      </trkpt>
+      <trkpt lat="43.82435" lon="18.450161">
+        <ele>1452.3</ele>
+      </trkpt>
+      <trkpt lat="43.824261" lon="18.450046">
+        <ele>1453.4</ele>
+      </trkpt>
+      <trkpt lat="43.824232" lon="18.450038">
+        <ele>1453.5</ele>
+      </trkpt>
+      <trkpt lat="43.824226" lon="18.450037">
+        <ele>1453.5</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Блзанци / Blizanci, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.824232" lon="18.450038">
+        <ele>1453.5</ele>
+      </trkpt>
+      <trkpt lat="43.824202" lon="18.449922">
+        <ele>1454.0</ele>
+      </trkpt>
+      <trkpt lat="43.824167" lon="18.449749">
+        <ele>1454.8</ele>
+      </trkpt>
+      <trkpt lat="43.824057" lon="18.449679">
+        <ele>1457.1</ele>
+      </trkpt>
+      <trkpt lat="43.823948" lon="18.44961">
+        <ele>1460.1</ele>
+      </trkpt>
+      <trkpt lat="43.823838" lon="18.449567">
+        <ele>1462.6</ele>
+      </trkpt>
+      <trkpt lat="43.823754" lon="18.449545">
+        <ele>1464.2</ele>
+      </trkpt>
+      <trkpt lat="43.823692" lon="18.449433">
+        <ele>1466.1</ele>
+      </trkpt>
+      <trkpt lat="43.823617" lon="18.449258">
+        <ele>1467.1</ele>
+      </trkpt>
+      <trkpt lat="43.82355" lon="18.449122">
+        <ele>1466.8</ele>
+      </trkpt>
+      <trkpt lat="43.823523" lon="18.449052">
+        <ele>1466.4</ele>
+      </trkpt>
+      <trkpt lat="43.823518" lon="18.448936">
+        <ele>1465.8</ele>
+      </trkpt>
+      <trkpt lat="43.82349" lon="18.448867">
+        <ele>1465.1</ele>
+      </trkpt>
+      <trkpt lat="43.823248" lon="18.448781">
+        <ele>1462.9</ele>
+      </trkpt>
+      <trkpt lat="43.823186" lon="18.448691">
+        <ele>1461.9</ele>
+      </trkpt>
+      <trkpt lat="43.823132" lon="18.448656">
+        <ele>1461.2</ele>
+      </trkpt>
+      <trkpt lat="43.823112" lon="18.448643">
+        <ele>1460.9</ele>
+      </trkpt>
+      <trkpt lat="43.823077" lon="18.44854">
+        <ele>1459.0</ele>
+      </trkpt>
+      <trkpt lat="43.823088" lon="18.448455">
+        <ele>1457.7</ele>
+      </trkpt>
+      <trkpt lat="43.823096" lon="18.448307">
+        <ele>1455.1</ele>
+      </trkpt>
+      <trkpt lat="43.82311" lon="18.448025">
+        <ele>1449.5</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Блзанци / Blizanci, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.823115" lon="18.44793">
+        <ele>1447.7</ele>
+      </trkpt>
+      <trkpt lat="43.823086" lon="18.447791">
+        <ele>1444.6</ele>
+      </trkpt>
+      <trkpt lat="43.82309" lon="18.447731">
+        <ele>1443.8</ele>
+      </trkpt>
+      <trkpt lat="43.823118" lon="18.447637">
+        <ele>1443.0</ele>
+      </trkpt>
+      <trkpt lat="43.823118" lon="18.44752">
+        <ele>1441.5</ele>
+      </trkpt>
+      <trkpt lat="43.823079" lon="18.447387">
+        <ele>1439.1</ele>
+      </trkpt>
+      <trkpt lat="43.823056" lon="18.447318">
+        <ele>1437.7</ele>
+      </trkpt>
+      <trkpt lat="43.823027" lon="18.447195">
+        <ele>1435.5</ele>
+      </trkpt>
+      <trkpt lat="43.82298" lon="18.447128">
+        <ele>1434.4</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Блзанци / Blizanci, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.822976" lon="18.447122">
+        <ele>1434.3</ele>
+      </trkpt>
+      <trkpt lat="43.822936" lon="18.447021">
+        <ele>1432.8</ele>
+      </trkpt>
+      <trkpt lat="43.822933" lon="18.446905">
+        <ele>1431.4</ele>
+      </trkpt>
+      <trkpt lat="43.822972" lon="18.446785">
+        <ele>1430.4</ele>
+      </trkpt>
+      <trkpt lat="43.823027" lon="18.44669">
+        <ele>1430.0</ele>
+      </trkpt>
+      <trkpt lat="43.823088" lon="18.44664">
+        <ele>1429.9</ele>
+      </trkpt>
+      <trkpt lat="43.823129" lon="18.44651">
+        <ele>1428.9</ele>
+      </trkpt>
+      <trkpt lat="43.823152" lon="18.446368">
+        <ele>1428.2</ele>
+      </trkpt>
+      <trkpt lat="43.823177" lon="18.446309">
+        <ele>1428.1</ele>
+      </trkpt>
+      <trkpt lat="43.823154" lon="18.446261">
+        <ele>1428.0</ele>
+      </trkpt>
+      <trkpt lat="43.823095" lon="18.446091">
+        <ele>1427.0</ele>
+      </trkpt>
+      <trkpt lat="43.823072" lon="18.445965">
+        <ele>1425.2</ele>
+      </trkpt>
+      <trkpt lat="43.823052" lon="18.445782">
+        <ele>1422.1</ele>
+      </trkpt>
+      <trkpt lat="43.823043" lon="18.445694">
+        <ele>1420.4</ele>
+        <name>SPD Jure Franko</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>18</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.823052" lon="18.445782">
+        <ele>1422.1</ele>
+      </trkpt>
+      <trkpt lat="43.823072" lon="18.445965">
+        <ele>1425.2</ele>
+      </trkpt>
+      <trkpt lat="43.823095" lon="18.446091">
+        <ele>1427.0</ele>
+      </trkpt>
+      <trkpt lat="43.823154" lon="18.446261">
+        <ele>1428.0</ele>
+      </trkpt>
+      <trkpt lat="43.823177" lon="18.446309">
+        <ele>1428.1</ele>
+      </trkpt>
+      <trkpt lat="43.823474" lon="18.446407">
+        <ele>1427.1</ele>
+      </trkpt>
+      <trkpt lat="43.823717" lon="18.446477">
+        <ele>1427.7</ele>
+      </trkpt>
+      <trkpt lat="43.823849" lon="18.446595">
+        <ele>1431.2</ele>
+      </trkpt>
+      <trkpt lat="43.823951" lon="18.446674">
+        <ele>1433.6</ele>
+      </trkpt>
+      <trkpt lat="43.824029" lon="18.446727">
+        <ele>1435.4</ele>
+      </trkpt>
+      <trkpt lat="43.824141" lon="18.44673">
+        <ele>1435.7</ele>
+      </trkpt>
+      <trkpt lat="43.823871" lon="18.447118">
+        <ele>1442.0</ele>
+      </trkpt>
+      <trkpt lat="43.823751" lon="18.447285">
+        <ele>1443.6</ele>
+      </trkpt>
+      <trkpt lat="43.82363" lon="18.447453">
+        <ele>1446.2</ele>
+      </trkpt>
+      <trkpt lat="43.823576" lon="18.447567">
+        <ele>1447.7</ele>
+      </trkpt>
+      <trkpt lat="43.823548" lon="18.447689">
+        <ele>1449.2</ele>
+      </trkpt>
+      <trkpt lat="43.823416" lon="18.447864">
+        <ele>1450.9</ele>
+      </trkpt>
+      <trkpt lat="43.823322" lon="18.448141">
+        <ele>1455.3</ele>
+      </trkpt>
+      <trkpt lat="43.823249" lon="18.448316">
+        <ele>1457.0</ele>
+      </trkpt>
+      <trkpt lat="43.823123" lon="18.448474">
+        <ele>1458.4</ele>
+      </trkpt>
+      <trkpt lat="43.823077" lon="18.44854">
+        <ele>1459.0</ele>
+      </trkpt>
+      <trkpt lat="43.822859" lon="18.448803">
+        <ele>1464.1</ele>
+      </trkpt>
+      <trkpt lat="43.822735" lon="18.448983">
+        <ele>1470.0</ele>
+      </trkpt>
+      <trkpt lat="43.82266" lon="18.449108">
+        <ele>1474.1</ele>
+      </trkpt>
+      <trkpt lat="43.822638" lon="18.449145">
+        <ele>1475.3</ele>
+      </trkpt>
+      <trkpt lat="43.822581" lon="18.449219">
+        <ele>1477.8</ele>
+      </trkpt>
+      <trkpt lat="43.822556" lon="18.449274">
+        <ele>1479.7</ele>
+      </trkpt>
+      <trkpt lat="43.822514" lon="18.449345">
+        <ele>1482.2</ele>
+      </trkpt>
+      <trkpt lat="43.822472" lon="18.449362">
+        <ele>1482.9</ele>
+      </trkpt>
+      <trkpt lat="43.822427" lon="18.449453">
+        <ele>1485.4</ele>
+      </trkpt>
+      <trkpt lat="43.822408" lon="18.449551">
+        <ele>1487.3</ele>
+      </trkpt>
+      <trkpt lat="43.82237" lon="18.44961">
+        <ele>1488.6</ele>
+      </trkpt>
+      <trkpt lat="43.822322" lon="18.449639">
+        <ele>1489.6</ele>
+      </trkpt>
+      <trkpt lat="43.822186" lon="18.44973">
+        <ele>1493.6</ele>
+      </trkpt>
+      <trkpt lat="43.822183" lon="18.449764">
+        <ele>1494.7</ele>
+      </trkpt>
+      <trkpt lat="43.822128" lon="18.449889">
+        <ele>1499.3</ele>
+      </trkpt>
+      <trkpt lat="43.82203" lon="18.449895">
+        <ele>1499.8</ele>
+      </trkpt>
+      <trkpt lat="43.821987" lon="18.449846">
+        <ele>1498.0</ele>
+      </trkpt>
+      <trkpt lat="43.821941" lon="18.449833">
+        <ele>1497.0</ele>
+      </trkpt>
+      <trkpt lat="43.821851" lon="18.449865">
+        <ele>1496.0</ele>
+      </trkpt>
+      <trkpt lat="43.821906" lon="18.449979">
+        <ele>1501.8</ele>
+      </trkpt>
+      <trkpt lat="43.821926" lon="18.45011">
+        <ele>1507.5</ele>
+      </trkpt>
+      <trkpt lat="43.821817" lon="18.450293">
+        <ele>1513.5</ele>
+        <name>Trebević Hiking Trail 1, Доње Међуше / Donje Međuše, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.8218" lon="18.450321">
+        <ele>1514.4</ele>
+      </trkpt>
+      <trkpt lat="43.821829" lon="18.450418">
+        <ele>1517.3</ele>
+      </trkpt>
+      <trkpt lat="43.821794" lon="18.450622">
+        <ele>1521.5</ele>
+      </trkpt>
+      <trkpt lat="43.82177" lon="18.450702">
+        <ele>1523.3</ele>
+      </trkpt>
+      <trkpt lat="43.821694" lon="18.450808">
+        <ele>1525.6</ele>
+      </trkpt>
+      <trkpt lat="43.821653" lon="18.450961">
+        <ele>1527.7</ele>
+      </trkpt>
+      <trkpt lat="43.821609" lon="18.451082">
+        <ele>1528.9</ele>
+      </trkpt>
+      <trkpt lat="43.821531" lon="18.451254">
+        <ele>1530.1</ele>
+      </trkpt>
+      <trkpt lat="43.821496" lon="18.451359">
+        <ele>1530.1</ele>
+      </trkpt>
+      <trkpt lat="43.821481" lon="18.451424">
+        <ele>1530.3</ele>
+      </trkpt>
+      <trkpt lat="43.82138" lon="18.451633">
+        <ele>1531.5</ele>
+      </trkpt>
+      <trkpt lat="43.821303" lon="18.451717">
+        <ele>1531.1</ele>
+      </trkpt>
+      <trkpt lat="43.821273" lon="18.451847">
+        <ele>1531.9</ele>
+      </trkpt>
+      <trkpt lat="43.821192" lon="18.452206">
+        <ele>1538.0</ele>
+      </trkpt>
+      <trkpt lat="43.821216" lon="18.452257">
+        <ele>1539.4</ele>
+      </trkpt>
+      <trkpt lat="43.821215" lon="18.452294">
+        <ele>1540.2</ele>
+      </trkpt>
+      <trkpt lat="43.821167" lon="18.452359">
+        <ele>1541.0</ele>
+      </trkpt>
+      <trkpt lat="43.821129" lon="18.452421">
+        <ele>1541.8</ele>
+      </trkpt>
+      <trkpt lat="43.821126" lon="18.452483">
+        <ele>1542.9</ele>
+      </trkpt>
+      <trkpt lat="43.82106" lon="18.452606">
+        <ele>1543.6</ele>
+      </trkpt>
+      <trkpt lat="43.821063" lon="18.452691">
+        <ele>1544.2</ele>
+      </trkpt>
+      <trkpt lat="43.821032" lon="18.452868">
+        <ele>1544.4</ele>
+      </trkpt>
+      <trkpt lat="43.820997" lon="18.45297">
+        <ele>1544.4</ele>
+      </trkpt>
+      <trkpt lat="43.820979" lon="18.45301">
+        <ele>1544.6</ele>
+      </trkpt>
+      <trkpt lat="43.820948" lon="18.453144">
+        <ele>1545.4</ele>
+      </trkpt>
+      <trkpt lat="43.820897" lon="18.453326">
+        <ele>1546.3</ele>
+      </trkpt>
+      <trkpt lat="43.820813" lon="18.453407">
+        <ele>1548.2</ele>
+      </trkpt>
+      <trkpt lat="43.820775" lon="18.453585">
+        <ele>1551.3</ele>
+      </trkpt>
+      <trkpt lat="43.820694" lon="18.453678">
+        <ele>1553.5</ele>
+      </trkpt>
+      <trkpt lat="43.820653" lon="18.453719">
+        <ele>1554.4</ele>
+      </trkpt>
+      <trkpt lat="43.82059" lon="18.453771">
+        <ele>1555.7</ele>
+      </trkpt>
+      <trkpt lat="43.820584" lon="18.453811">
+        <ele>1555.8</ele>
+      </trkpt>
+      <trkpt lat="43.820514" lon="18.453913">
+        <ele>1556.4</ele>
+      </trkpt>
+      <trkpt lat="43.820429" lon="18.45399">
+        <ele>1556.5</ele>
+      </trkpt>
+      <trkpt lat="43.820402" lon="18.454081">
+        <ele>1555.6</ele>
+      </trkpt>
+      <trkpt lat="43.820297" lon="18.454222">
+        <ele>1554.9</ele>
+      </trkpt>
+      <trkpt lat="43.820215" lon="18.454316">
+        <ele>1555.0</ele>
+      </trkpt>
+      <trkpt lat="43.82019" lon="18.454396">
+        <ele>1555.1</ele>
+      </trkpt>
+      <trkpt lat="43.82014" lon="18.454436">
+        <ele>1555.2</ele>
+      </trkpt>
+      <trkpt lat="43.820083" lon="18.454477">
+        <ele>1555.5</ele>
+      </trkpt>
+      <trkpt lat="43.820042" lon="18.454519">
+        <ele>1556.0</ele>
+      </trkpt>
+      <trkpt lat="43.819973" lon="18.454633">
+        <ele>1557.8</ele>
+      </trkpt>
+      <trkpt lat="43.819927" lon="18.454711">
+        <ele>1558.6</ele>
+      </trkpt>
+      <trkpt lat="43.819885" lon="18.454747">
+        <ele>1558.7</ele>
+      </trkpt>
+      <trkpt lat="43.819794" lon="18.454851">
+        <ele>1558.2</ele>
+      </trkpt>
+      <trkpt lat="43.819724" lon="18.455009">
+        <ele>1556.9</ele>
+      </trkpt>
+      <trkpt lat="43.819637" lon="18.455146">
+        <ele>1554.9</ele>
+      </trkpt>
+      <trkpt lat="43.819532" lon="18.455309">
+        <ele>1552.3</ele>
+      </trkpt>
+      <trkpt lat="43.819487" lon="18.45546">
+        <ele>1550.7</ele>
+      </trkpt>
+      <trkpt lat="43.819434" lon="18.455524">
+        <ele>1550.1</ele>
+      </trkpt>
+      <trkpt lat="43.819332" lon="18.455614">
+        <ele>1549.5</ele>
+      </trkpt>
+      <trkpt lat="43.819252" lon="18.455733">
+        <ele>1548.8</ele>
+      </trkpt>
+      <trkpt lat="43.819127" lon="18.455955">
+        <ele>1548.2</ele>
+      </trkpt>
+      <trkpt lat="43.81898" lon="18.456194">
+        <ele>1550.1</ele>
+      </trkpt>
+      <trkpt lat="43.818848" lon="18.456451">
+        <ele>1554.2</ele>
+      </trkpt>
+      <trkpt lat="43.818728" lon="18.45669">
+        <ele>1558.9</ele>
+      </trkpt>
+      <trkpt lat="43.818663" lon="18.456972">
+        <ele>1565.5</ele>
+      </trkpt>
+      <trkpt lat="43.818651" lon="18.457068">
+        <ele>1567.6</ele>
+      </trkpt>
+      <trkpt lat="43.818649" lon="18.457205">
+        <ele>1570.6</ele>
+      </trkpt>
+      <trkpt lat="43.818663" lon="18.457377">
+        <ele>1574.1</ele>
+      </trkpt>
+      <trkpt lat="43.818718" lon="18.457589">
+        <ele>1579.3</ele>
+      </trkpt>
+      <trkpt lat="43.818773" lon="18.457784">
+        <ele>1584.7</ele>
+      </trkpt>
+      <trkpt lat="43.818786" lon="18.457911">
+        <ele>1588.1</ele>
+      </trkpt>
+      <trkpt lat="43.818805" lon="18.458115">
+        <ele>1592.7</ele>
+      </trkpt>
+      <trkpt lat="43.818805" lon="18.458251">
+        <ele>1594.7</ele>
+      </trkpt>
+      <trkpt lat="43.818727" lon="18.458471">
+        <ele>1596.8</ele>
+      </trkpt>
+      <trkpt lat="43.818692" lon="18.458764">
+        <ele>1599.3</ele>
+      </trkpt>
+      <trkpt lat="43.818698" lon="18.45881">
+        <ele>1599.7</ele>
+        <name>Trebević Hiking Trail 1, Доње Међуше / Donje Međuše, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.818725" lon="18.458997">
+        <ele>1601.4</ele>
+      </trkpt>
+      <trkpt lat="43.818703" lon="18.459163">
+        <ele>1603.4</ele>
+      </trkpt>
+      <trkpt lat="43.818666" lon="18.45935">
+        <ele>1604.8</ele>
+      </trkpt>
+      <trkpt lat="43.818631" lon="18.459631">
+        <ele>1605.6</ele>
+      </trkpt>
+      <trkpt lat="43.818518" lon="18.459875">
+        <ele>1606.1</ele>
+      </trkpt>
+      <trkpt lat="43.818495" lon="18.460061">
+        <ele>1607.3</ele>
+      </trkpt>
+      <trkpt lat="43.818523" lon="18.460185">
+        <ele>1608.7</ele>
+      </trkpt>
+      <trkpt lat="43.818485" lon="18.460326">
+        <ele>1608.3</ele>
+      </trkpt>
+      <trkpt lat="43.818498" lon="18.460509">
+        <ele>1609.6</ele>
+      </trkpt>
+      <trkpt lat="43.8185" lon="18.460675">
+        <ele>1609.5</ele>
+      </trkpt>
+      <trkpt lat="43.818413" lon="18.460888">
+        <ele>1607.8</ele>
+        <name>Trebević
+Trebević-Sofe</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.81834" lon="18.461167">
+        <ele>1606.1</ele>
+      </trkpt>
+      <trkpt lat="43.81835" lon="18.461232">
+        <ele>1606.3</ele>
+      </trkpt>
+      <trkpt lat="43.818287" lon="18.461394">
+        <ele>1605.2</ele>
+      </trkpt>
+      <trkpt lat="43.818309" lon="18.461516">
+        <ele>1605.8</ele>
+      </trkpt>
+      <trkpt lat="43.818244" lon="18.461753">
+        <ele>1605.5</ele>
+      </trkpt>
+      <trkpt lat="43.818275" lon="18.462013">
+        <ele>1604.8</ele>
+      </trkpt>
+      <trkpt lat="43.818249" lon="18.462411">
+        <ele>1602.7</ele>
+      </trkpt>
+      <trkpt lat="43.818272" lon="18.462417">
+        <ele>1602.7</ele>
+      </trkpt>
+      <trkpt lat="43.818311" lon="18.462361">
+        <ele>1602.7</ele>
+      </trkpt>
+      <trkpt lat="43.818422" lon="18.462282">
+        <ele>1600.8</ele>
+      </trkpt>
+      <trkpt lat="43.818491" lon="18.462391">
+        <ele>1597.7</ele>
+      </trkpt>
+      <trkpt lat="43.818549" lon="18.462412">
+        <ele>1595.2</ele>
+      </trkpt>
+      <trkpt lat="43.818577" lon="18.462287">
+        <ele>1595.3</ele>
+      </trkpt>
+      <trkpt lat="43.818556" lon="18.462129">
+        <ele>1597.9</ele>
+      </trkpt>
+      <trkpt lat="43.818561" lon="18.46206">
+        <ele>1598.8</ele>
+      </trkpt>
+      <trkpt lat="43.81859" lon="18.462041">
+        <ele>1598.2</ele>
+      </trkpt>
+      <trkpt lat="43.818606" lon="18.46207">
+        <ele>1597.4</ele>
+      </trkpt>
+      <trkpt lat="43.818621" lon="18.462061">
+        <ele>1597.1</ele>
+      </trkpt>
+      <trkpt lat="43.818642" lon="18.462021">
+        <ele>1597.1</ele>
+      </trkpt>
+      <trkpt lat="43.818643" lon="18.461912">
+        <ele>1598.6</ele>
+      </trkpt>
+      <trkpt lat="43.818656" lon="18.461799">
+        <ele>1599.5</ele>
+      </trkpt>
+      <trkpt lat="43.818697" lon="18.461779">
+        <ele>1598.5</ele>
+      </trkpt>
+      <trkpt lat="43.818721" lon="18.461933">
+        <ele>1596.2</ele>
+      </trkpt>
+      <trkpt lat="43.818734" lon="18.461933">
+        <ele>1595.9</ele>
+      </trkpt>
+      <trkpt lat="43.818744" lon="18.461831">
+        <ele>1596.6</ele>
+      </trkpt>
+      <trkpt lat="43.818759" lon="18.461754">
+        <ele>1596.6</ele>
+      </trkpt>
+      <trkpt lat="43.818797" lon="18.461607">
+        <ele>1595.8</ele>
+      </trkpt>
+      <trkpt lat="43.818843" lon="18.461564">
+        <ele>1593.8</ele>
+      </trkpt>
+      <trkpt lat="43.818868" lon="18.461563">
+        <ele>1592.8</ele>
+      </trkpt>
+      <trkpt lat="43.81887" lon="18.461598">
+        <ele>1592.7</ele>
+      </trkpt>
+      <trkpt lat="43.818851" lon="18.461663">
+        <ele>1593.5</ele>
+      </trkpt>
+      <trkpt lat="43.818858" lon="18.46174">
+        <ele>1593.0</ele>
+      </trkpt>
+      <trkpt lat="43.818875" lon="18.461755">
+        <ele>1592.3</ele>
+      </trkpt>
+      <trkpt lat="43.818893" lon="18.461746">
+        <ele>1591.7</ele>
+      </trkpt>
+      <trkpt lat="43.818922" lon="18.461685">
+        <ele>1590.7</ele>
+      </trkpt>
+      <trkpt lat="43.81895" lon="18.461598">
+        <ele>1589.6</ele>
+      </trkpt>
+      <trkpt lat="43.819009" lon="18.461278">
+        <ele>1587.8</ele>
+      </trkpt>
+      <trkpt lat="43.81905" lon="18.461212">
+        <ele>1586.3</ele>
+      </trkpt>
+      <trkpt lat="43.819148" lon="18.461231">
+        <ele>1581.7</ele>
+      </trkpt>
+      <trkpt lat="43.819337" lon="18.461191">
+        <ele>1572.9</ele>
+      </trkpt>
+      <trkpt lat="43.81956" lon="18.46119">
+        <ele>1563.4</ele>
+      </trkpt>
+      <trkpt lat="43.819671" lon="18.461197">
+        <ele>1559.2</ele>
+      </trkpt>
+      <trkpt lat="43.819671" lon="18.461202">
+        <ele>1559.3</ele>
+        <name>Princeza trail, Довлићи / Dovlići, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.819654" lon="18.461663">
+        <ele>1562.5</ele>
+      </trkpt>
+      <trkpt lat="43.819672" lon="18.46194">
+        <ele>1558.6</ele>
+      </trkpt>
+      <trkpt lat="43.819737" lon="18.462089">
+        <ele>1554.5</ele>
+      </trkpt>
+      <trkpt lat="43.819812" lon="18.46213">
+        <ele>1551.6</ele>
+      </trkpt>
+      <trkpt lat="43.8199" lon="18.46215">
+        <ele>1548.8</ele>
+      </trkpt>
+      <trkpt lat="43.819936" lon="18.462023">
+        <ele>1550.5</ele>
+      </trkpt>
+      <trkpt lat="43.819997" lon="18.461901">
+        <ele>1550.6</ele>
+      </trkpt>
+      <trkpt lat="43.820051" lon="18.461798">
+        <ele>1549.7</ele>
+      </trkpt>
+      <trkpt lat="43.820078" lon="18.461683">
+        <ele>1549.7</ele>
+      </trkpt>
+      <trkpt lat="43.820137" lon="18.461521">
+        <ele>1549.3</ele>
+      </trkpt>
+      <trkpt lat="43.820215" lon="18.46135">
+        <ele>1547.8</ele>
+      </trkpt>
+      <trkpt lat="43.820291" lon="18.461234">
+        <ele>1545.2</ele>
+      </trkpt>
+      <trkpt lat="43.820397" lon="18.461125">
+        <ele>1541.8</ele>
+      </trkpt>
+      <trkpt lat="43.820554" lon="18.461035">
+        <ele>1537.1</ele>
+      </trkpt>
+      <trkpt lat="43.820706" lon="18.460932">
+        <ele>1531.9</ele>
+      </trkpt>
+      <trkpt lat="43.820839" lon="18.460868">
+        <ele>1527.7</ele>
+      </trkpt>
+      <trkpt lat="43.820973" lon="18.460887">
+        <ele>1523.9</ele>
+      </trkpt>
+      <trkpt lat="43.821129" lon="18.461147">
+        <ele>1519.7</ele>
+      </trkpt>
+      <trkpt lat="43.821325" lon="18.461326">
+        <ele>1516.1</ele>
+      </trkpt>
+      <trkpt lat="43.821502" lon="18.461298">
+        <ele>1513.3</ele>
+      </trkpt>
+      <trkpt lat="43.821627" lon="18.461237">
+        <ele>1511.7</ele>
+      </trkpt>
+      <trkpt lat="43.821715" lon="18.461097">
+        <ele>1511.4</ele>
+      </trkpt>
+      <trkpt lat="43.821819" lon="18.461086">
+        <ele>1510.2</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Довлићи / Dovlići, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.821856" lon="18.461083">
+        <ele>1509.8</ele>
+      </trkpt>
+      <trkpt lat="43.822006" lon="18.460988">
+        <ele>1507.9</ele>
+      </trkpt>
+      <trkpt lat="43.82205" lon="18.460877">
+        <ele>1507.3</ele>
+      </trkpt>
+      <trkpt lat="43.822272" lon="18.460763">
+        <ele>1500.0</ele>
+      </trkpt>
+      <trkpt lat="43.82254" lon="18.460811">
+        <ele>1489.8</ele>
+      </trkpt>
+      <trkpt lat="43.822715" lon="18.460729">
+        <ele>1485.1</ele>
+      </trkpt>
+      <trkpt lat="43.822798" lon="18.460516">
+        <ele>1481.1</ele>
+      </trkpt>
+      <trkpt lat="43.82286" lon="18.460552">
+        <ele>1478.8</ele>
+      </trkpt>
+      <trkpt lat="43.822949" lon="18.460183">
+        <ele>1474.4</ele>
+      </trkpt>
+      <trkpt lat="43.823002" lon="18.460115">
+        <ele>1472.2</ele>
+      </trkpt>
+      <trkpt lat="43.823087" lon="18.459811">
+        <ele>1468.5</ele>
+      </trkpt>
+      <trkpt lat="43.823238" lon="18.459631">
+        <ele>1462.4</ele>
+      </trkpt>
+      <trkpt lat="43.823292" lon="18.459425">
+        <ele>1460.1</ele>
+      </trkpt>
+      <trkpt lat="43.82342" lon="18.459302">
+        <ele>1453.4</ele>
+      </trkpt>
+      <trkpt lat="43.823503" lon="18.459218">
+        <ele>1448.2</ele>
+      </trkpt>
+      <trkpt lat="43.823516" lon="18.459096">
+        <ele>1446.2</ele>
+      </trkpt>
+      <trkpt lat="43.823608" lon="18.458844">
+        <ele>1436.8</ele>
+      </trkpt>
+      <trkpt lat="43.823664" lon="18.459047">
+        <ele>1435.5</ele>
+      </trkpt>
+      <trkpt lat="43.823869" lon="18.458684">
+        <ele>1419.4</ele>
+      </trkpt>
+      <trkpt lat="43.823946" lon="18.458758">
+        <ele>1413.9</ele>
+      </trkpt>
+      <trkpt lat="43.824064" lon="18.458407">
+        <ele>1401.1</ele>
+      </trkpt>
+      <trkpt lat="43.824146" lon="18.458216">
+        <ele>1391.4</ele>
+      </trkpt>
+      <trkpt lat="43.824375" lon="18.457776">
+        <ele>1375.7</ele>
+      </trkpt>
+      <trkpt lat="43.824407" lon="18.457643">
+        <ele>1374.0</ele>
+      </trkpt>
+      <trkpt lat="43.824435" lon="18.457554">
+        <ele>1372.5</ele>
+      </trkpt>
+      <trkpt lat="43.824551" lon="18.457649">
+        <ele>1365.7</ele>
+      </trkpt>
+      <trkpt lat="43.824611" lon="18.457882">
+        <ele>1362.4</ele>
+      </trkpt>
+      <trkpt lat="43.824898" lon="18.458218">
+        <ele>1351.4</ele>
+      </trkpt>
+      <trkpt lat="43.825027" lon="18.458047">
+        <ele>1345.9</ele>
+      </trkpt>
+      <trkpt lat="43.825188" lon="18.45818">
+        <ele>1340.5</ele>
+      </trkpt>
+      <trkpt lat="43.825367" lon="18.458191">
+        <ele>1333.2</ele>
+      </trkpt>
+      <trkpt lat="43.825518" lon="18.458059">
+        <ele>1325.7</ele>
+      </trkpt>
+      <trkpt lat="43.82555" lon="18.457948">
+        <ele>1323.9</ele>
+        <name>Park prirode Trebević (Trebević Nature Park), Довлићи / Dovlići, МЗ Требевић / MZ Trebević, Општина Источни Стари Град / Opština Istočni Stari Grad (Eastern Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.825588" lon="18.45782">
+        <ele>1321.8</ele>
+      </trkpt>
+      <trkpt lat="43.825701" lon="18.457772">
+        <ele>1317.2</ele>
+      </trkpt>
+      <trkpt lat="43.825816" lon="18.457859">
+        <ele>1312.3</ele>
+      </trkpt>
+      <trkpt lat="43.825862" lon="18.45797">
+        <ele>1310.1</ele>
+      </trkpt>
+      <trkpt lat="43.825959" lon="18.45807">
+        <ele>1306.4</ele>
+      </trkpt>
+      <trkpt lat="43.826165" lon="18.458024">
+        <ele>1300.9</ele>
+      </trkpt>
+      <trkpt lat="43.826301" lon="18.458008">
+        <ele>1299.2</ele>
+      </trkpt>
+      <trkpt lat="43.826385" lon="18.457831">
+        <ele>1298.1</ele>
+      </trkpt>
+      <trkpt lat="43.826602" lon="18.457755">
+        <ele>1292.6</ele>
+      </trkpt>
+      <trkpt lat="43.826713" lon="18.457785">
+        <ele>1289.9</ele>
+      </trkpt>
+      <trkpt lat="43.826825" lon="18.457739">
+        <ele>1287.4</ele>
+      </trkpt>
+      <trkpt lat="43.827051" lon="18.457707">
+        <ele>1282.4</ele>
+      </trkpt>
+      <trkpt lat="43.827129" lon="18.457704">
+        <ele>1280.8</ele>
+      </trkpt>
+      <trkpt lat="43.827212" lon="18.457773">
+        <ele>1279.2</ele>
+      </trkpt>
+      <trkpt lat="43.827303" lon="18.457806">
+        <ele>1277.6</ele>
+      </trkpt>
+      <trkpt lat="43.827352" lon="18.457643">
+        <ele>1276.5</ele>
+      </trkpt>
+      <trkpt lat="43.827467" lon="18.45755">
+        <ele>1273.9</ele>
+      </trkpt>
+      <trkpt lat="43.827635" lon="18.457591">
+        <ele>1270.2</ele>
+      </trkpt>
+      <trkpt lat="43.827975" lon="18.457514">
+        <ele>1260.4</ele>
+      </trkpt>
+      <trkpt lat="43.828205" lon="18.457256">
+        <ele>1252.3</ele>
+      </trkpt>
+      <trkpt lat="43.828323" lon="18.457121">
+        <ele>1248.5</ele>
+      </trkpt>
+      <trkpt lat="43.828502" lon="18.457029">
+        <ele>1245.4</ele>
+      </trkpt>
+      <trkpt lat="43.828684" lon="18.457135">
+        <ele>1241.9</ele>
+      </trkpt>
+      <trkpt lat="43.828857" lon="18.457135">
+        <ele>1236.4</ele>
+      </trkpt>
+      <trkpt lat="43.829018" lon="18.457078">
+        <ele>1231.6</ele>
+      </trkpt>
+      <trkpt lat="43.829089" lon="18.456944">
+        <ele>1229.0</ele>
+      </trkpt>
+      <trkpt lat="43.829097" lon="18.456773">
+        <ele>1227.1</ele>
+      </trkpt>
+      <trkpt lat="43.829156" lon="18.456594">
+        <ele>1223.3</ele>
+      </trkpt>
+      <trkpt lat="43.829214" lon="18.456556">
+        <ele>1221.1</ele>
+      </trkpt>
+      <trkpt lat="43.829216" lon="18.456457">
+        <ele>1219.7</ele>
+      </trkpt>
+      <trkpt lat="43.829355" lon="18.45646">
+        <ele>1216.3</ele>
+      </trkpt>
+      <trkpt lat="43.829635" lon="18.456607">
+        <ele>1213.0</ele>
+      </trkpt>
+      <trkpt lat="43.829859" lon="18.456474">
+        <ele>1209.7</ele>
+      </trkpt>
+      <trkpt lat="43.830006" lon="18.456362">
+        <ele>1207.9</ele>
+      </trkpt>
+      <trkpt lat="43.830421" lon="18.456446">
+        <ele>1196.6</ele>
+      </trkpt>
+      <trkpt lat="43.830782" lon="18.456551">
+        <ele>1185.1</ele>
+      </trkpt>
+      <trkpt lat="43.83102" lon="18.45653">
+        <ele>1180.3</ele>
+      </trkpt>
+      <trkpt lat="43.831227" lon="18.456443">
+        <ele>1177.6</ele>
+      </trkpt>
+      <trkpt lat="43.831364" lon="18.456383">
+        <ele>1176.2</ele>
+      </trkpt>
+      <trkpt lat="43.831491" lon="18.456356">
+        <ele>1175.4</ele>
+      </trkpt>
+      <trkpt lat="43.831719" lon="18.4563">
+        <ele>1173.6</ele>
+      </trkpt>
+      <trkpt lat="43.831947" lon="18.456244">
+        <ele>1171.3</ele>
+      </trkpt>
+      <trkpt lat="43.832314" lon="18.456147">
+        <ele>1167.0</ele>
+      </trkpt>
+      <trkpt lat="43.832501" lon="18.456203">
+        <ele>1164.9</ele>
+      </trkpt>
+      <trkpt lat="43.832725" lon="18.456219">
+        <ele>1161.9</ele>
+      </trkpt>
+      <trkpt lat="43.832839" lon="18.456193">
+        <ele>1159.9</ele>
+      </trkpt>
+      <trkpt lat="43.83292" lon="18.456112">
+        <ele>1158.0</ele>
+      </trkpt>
+      <trkpt lat="43.833258" lon="18.456173">
+        <ele>1152.9</ele>
+      </trkpt>
+      <trkpt lat="43.833649" lon="18.456135">
+        <ele>1142.1</ele>
+      </trkpt>
+      <trkpt lat="43.834041" lon="18.456096">
+        <ele>1134.8</ele>
+      </trkpt>
+      <trkpt lat="43.83436" lon="18.455898">
+        <ele>1128.2</ele>
+      </trkpt>
+      <trkpt lat="43.834801" lon="18.45602">
+        <ele>1116.0</ele>
+      </trkpt>
+      <trkpt lat="43.834887" lon="18.456081">
+        <ele>1112.9</ele>
+      </trkpt>
+      <trkpt lat="43.834939" lon="18.456086">
+        <ele>1111.0</ele>
+      </trkpt>
+      <trkpt lat="43.835115" lon="18.456158">
+        <ele>1106.1</ele>
+      </trkpt>
+      <trkpt lat="43.835262" lon="18.456147">
+        <ele>1102.6</ele>
+      </trkpt>
+      <trkpt lat="43.835383" lon="18.456133">
+        <ele>1099.7</ele>
+      </trkpt>
+      <trkpt lat="43.835547" lon="18.456035">
+        <ele>1095.5</ele>
+      </trkpt>
+      <trkpt lat="43.835891" lon="18.455713">
+        <ele>1089.1</ele>
+      </trkpt>
+      <trkpt lat="43.836097" lon="18.455479">
+        <ele>1088.5</ele>
+      </trkpt>
+      <trkpt lat="43.836181" lon="18.455293">
+        <ele>1087.0</ele>
+      </trkpt>
+      <trkpt lat="43.836236" lon="18.45497">
+        <ele>1084.1</ele>
+      </trkpt>
+      <trkpt lat="43.836352" lon="18.454588">
+        <ele>1080.5</ele>
+      </trkpt>
+      <trkpt lat="43.836468" lon="18.454206">
+        <ele>1077.2</ele>
+      </trkpt>
+      <trkpt lat="43.836471" lon="18.453975">
+        <ele>1076.2</ele>
+      </trkpt>
+      <trkpt lat="43.836517" lon="18.453975">
+        <ele>1076.1</ele>
+      </trkpt>
+      <trkpt lat="43.836576" lon="18.45392">
+        <ele>1075.6</ele>
+      </trkpt>
+      <trkpt lat="43.836659" lon="18.453807">
+        <ele>1074.4</ele>
+      </trkpt>
+      <trkpt lat="43.836809" lon="18.453575">
+        <ele>1071.1</ele>
+      </trkpt>
+      <trkpt lat="43.836927" lon="18.45336">
+        <ele>1069.2</ele>
+      </trkpt>
+      <trkpt lat="43.837005" lon="18.453257">
+        <ele>1068.5</ele>
+      </trkpt>
+      <trkpt lat="43.83705" lon="18.453196">
+        <ele>1068.3</ele>
+      </trkpt>
+      <trkpt lat="43.837094" lon="18.453163">
+        <ele>1068.4</ele>
+      </trkpt>
+      <trkpt lat="43.837135" lon="18.453132">
+        <ele>1068.8</ele>
+      </trkpt>
+      <trkpt lat="43.837265" lon="18.452996">
+        <ele>1070.9</ele>
+      </trkpt>
+      <trkpt lat="43.837414" lon="18.4528">
+        <ele>1073.9</ele>
+      </trkpt>
+      <trkpt lat="43.837487" lon="18.452715">
+        <ele>1074.7</ele>
+      </trkpt>
+      <trkpt lat="43.837333" lon="18.452406">
+        <ele>1072.0</ele>
+      </trkpt>
+      <trkpt lat="43.837325" lon="18.452388">
+        <ele>1071.9</ele>
+        <name>Sarajevo, MZ &quot;Širokača&quot;, Općina Stari Grad (Old Town municipality)</name>
+        <extensions>
+          <oa:Extension>
+            <oa:mapZoom>17</oa:mapZoom>
+          </oa:Extension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
