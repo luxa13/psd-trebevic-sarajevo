@@ -16,12 +16,12 @@ View your app in AI Studio: https://ai.studio/apps/ee2e9817-2be5-4e99-b6d8-e69ca
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. To enable direct tour registration emails, create a Resend API key, verify the sender domain in Resend, and set `RESEND_API_KEY` and `RESEND_FROM_EMAIL` in `.env.local` and in the production host's server-side environment variables. The recipient is fixed to `psdtrebevic@icloud.com`. Never expose the API key with a `NEXT_PUBLIC_` prefix or commit it.
+3. To enable direct tour registration emails without a custom domain, use a Gmail account as the sender. Turn on 2-Step Verification, create a Google [App Password](https://support.google.com/accounts/answer/185833), and set `GMAIL_USER` to that account and `GMAIL_APP_PASSWORD` to the generated password in `.env.local` and the production host's server-side environment variables. The recipient is fixed to `psdtrebevic@icloud.com`; replies go to the applicant. Never use your regular Google password, expose these values with a `NEXT_PUBLIC_` prefix, or commit them.
 4. Run the app:
    `npm run dev`
 
 ## Deploy to Vercel
 
-Import the project into Vercel from a private GitHub repository. Vercel detects Next.js automatically; use the repository root as the project root and the default build settings. Add any required server-side variables (for example, `GEMINI_API_KEY`, `RESEND_API_KEY`, and `RESEND_FROM_EMAIL`) under the Vercel project's Environment Variables, then redeploy. Do not add secrets to GitHub or expose them as `NEXT_PUBLIC_*`.
+Import the project into Vercel from a private GitHub repository. Vercel detects Next.js automatically; use the repository root as the project root and the default build settings. Add any required server-side variables (for example, `GEMINI_API_KEY`, `GMAIL_USER`, and `GMAIL_APP_PASSWORD`) under the Vercel project's Environment Variables, then redeploy. Do not add secrets to GitHub or expose them as `NEXT_PUBLIC_*`.
 
-The registration form sends only after Resend has a verified sender domain and its API key is configured in the deployment. Without those settings, it displays an error rather than claiming the application was sent.
+The registration form sends through Gmail SMTP over TLS. The sender is the configured Gmail account, and the recipient remains `psdtrebevic@icloud.com`. Without the required Gmail settings, the form displays an error rather than claiming the application was sent.

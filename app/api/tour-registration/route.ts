@@ -1,5 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
+import nodemailer from 'nodemailer';
 import { UPCOMING_TOURS } from '@/lib/trebevic-data';
+
+export const runtime = 'nodejs';
 
 const RECIPIENT = 'psdtrebevic@icloud.com';
 const EXPERIENCE_LABELS = {
@@ -104,10 +107,10 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const apiKey = process.env.RESEND_API_KEY;
-  const from = process.env.RESEND_FROM_EMAIL;
-  if (!apiKey || !from) {
-    console.error('Tour registration email is not configured: missing Resend environment variables.');
+  const gmailUser = process.env.GMAIL_USER?.trim();
+  const gmailAppPassword = process.env.GMAIL_APP_PASSWORD?.replace(/\s+/g, '');
+  if (!gmailUser || !gmailAppPassword) {
+    console.error('Tour registration email is not configured: missing Gmail environment variables.');
     return NextResponse.json(
       { error: 'Slanje prijava trenutno nije podešeno. Pokušajte ponovo kasnije.' },
       { status: 503 }
@@ -132,33 +135,30 @@ export async function POST(req: NextRequest) {
   ].join('\n');
 
   try {
-    const response = await fetch('https://api.resend.com/emails', {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
+    const transporter = nodemailer.createTransport({
+      host: 'smtp.gmail.com',
+      port: 465,
+      secure: true,
+      auth: {
+        user: gmailUser,
+        pass: gmailAppPassword,
       },
-      body: JSON.stringify({
-        from,
-        to: [RECIPIENT],
-        reply_to: email,
-        subject,
-        text,
-      }),
-      signal: AbortSignal.timeout(10_000),
+      connectionTimeout: 10_000,
+      greetingTimeout: 10_000,
+      socketTimeout: 20_000,
     });
 
-    if (!response.ok) {
-      console.error(`Resend rejected a tour registration email (HTTP ${response.status}).`);
-      return NextResponse.json(
-        { error: 'Prijavu trenutno nije moguće poslati. Pokušajte ponovo kasnije.' },
-        { status: 502 }
-      );
-    }
+    await transporter.sendMail({
+      from: { name: 'PSD Trebević', address: gmailUser },
+      to: RECIPIENT,
+      replyTo: email,
+      subject,
+      text,
+    });
 
     return NextResponse.json({ sent: true });
   } catch (error) {
-    console.error('Tour registration email request failed:', error);
+    console.error('Gmail rejected or failed to send a tour registration email:', error);
     return NextResponse.json(
       { error: 'Prijavu trenutno nije moguće poslati. Provjerite internet i pokušajte ponovo.' },
       { status: 502 }
